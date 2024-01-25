@@ -1,0 +1,2211 @@
+[
+  {
+    "text": "عايزة احط عنوان بيتي",
+    "label": [
+      {
+        "start": 6,
+        "end": 9,
+        "text": "احط",
+        "labels": [
+          "add"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "text": " عنوان",
+        "labels": [
+          "address"
+        ]
+      }
+    ],
+    "id": 1,
+    "annotator": 1,
+    "annotation_id": 1,
+    "created_at": "2024-01-20T19:00:32.727183Z",
+    "updated_at": "2024-01-20T19:00:32.727200Z",
+    "lead_time": 113.223
+  },
+  {
+    "text": "ابغى الفاتورة من فضلك",
+    "label": [
+      {
+        "start": 4,
+        "end": 13,
+        "text": " الفاتورة",
+        "labels": [
+          "invoice"
+        ]
+      }
+    ],
+    "id": 2,
+    "annotator": 1,
+    "annotation_id": 2,
+    "created_at": "2024-01-20T19:01:17.348580Z",
+    "updated_at": "2024-01-20T19:01:17.348603Z",
+    "lead_time": 17.197
+  },
+  {
+    "text": "عايزة اغير عنوان البيت",
+    "label": [
+      {
+        "start": 5,
+        "end": 11,
+        "text": " اغير ",
+        "labels": [
+          "change"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "عنوان",
+        "labels": [
+          "address"
+        ]
+      }
+    ],
+    "id": 3,
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2024-01-20T19:02:00.859353Z",
+    "updated_at": "2024-01-20T19:02:00.859369Z",
+    "lead_time": 36.916
+  },
+  {
+    "text": "ممكن اغير عنواني",
+    "label": [
+      {
+        "start": 5,
+        "end": 9,
+        "text": "اغير",
+        "labels": [
+          "change"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 16,
+        "text": "عنواني",
+        "labels": [
+          "address"
+        ]
+      }
+    ],
+    "id": 4,
+    "annotator": 1,
+    "annotation_id": 4,
+    "created_at": "2024-01-20T19:02:42.427399Z",
+    "updated_at": "2024-01-20T19:02:42.427413Z",
+    "lead_time": 28.93
+  },
+  {
+    "text": "عايز منيو ارابياتا جامعة الدول",
+    "label": [
+      {
+        "start": 5,
+        "end": 9,
+        "text": "منيو",
+        "labels": [
+          "Menu"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 30,
+        "text": "جامعة الدول",
+        "labels": [
+          "location"
+        ]
+      }
+    ],
+    "id": 5,
+    "annotator": 1,
+    "annotation_id": 5,
+    "created_at": "2024-01-20T19:05:43.681682Z",
+    "updated_at": "2024-01-20T19:05:43.681698Z",
+    "lead_time": 138.916
+  },
+  {
+    "text": "بدي شوف ايش عندكن من البيتزا",
+    "label": [
+      {
+        "start": 3,
+        "end": 7,
+        "text": " شوف",
+        "labels": [
+          "show"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "text": " البيتزا",
+        "labels": [
+          "ItemName"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 17,
+        "text": "ايش عندكن",
+        "labels": [
+          "Menu"
+        ]
+      }
+    ],
+    "id": 6,
+    "annotator": 1,
+    "annotation_id": 6,
+    "created_at": "2024-01-20T19:07:26.298881Z",
+    "updated_at": "2024-01-20T19:07:26.298895Z",
+    "lead_time": 95.742
+  },
+  {
+    "text": "تابعلي الاوردر قوام",
+    "label": [
+      {
+        "start": 6,
+        "end": 14,
+        "text": " الاوردر",
+        "labels": [
+          "order"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 6,
+        "text": "تابعلي",
+        "labels": [
+          "show"
+        ]
+      }
+    ],
+    "id": 7,
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2024-01-20T19:08:30.286504Z",
+    "updated_at": "2024-01-20T19:08:30.286517Z",
+    "lead_time": 54.798
+  },
+  {
+    "text": "ممكن احذف العنوان لو سمحت",
+    "label": [
+      {
+        "start": 5,
+        "end": 9,
+        "text": "احذف",
+        "labels": [
+          "delete"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 17,
+        "text": "العنوان",
+        "labels": [
+          "address"
+        ]
+      }
+    ],
+    "id": 8,
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2024-01-20T19:08:50.433271Z",
+    "updated_at": "2024-01-20T19:08:50.433286Z",
+    "lead_time": 17.248
+  },
+  {
+    "text": "عايز احدد اللغة الاسبانية",
+    "label": [
+      {
+        "start": 16,
+        "end": 25,
+        "text": "الاسبانية",
+        "labels": [
+          "Language"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 9,
+        "text": " احدد",
+        "labels": [
+          "add"
+        ]
+      }
+    ],
+    "id": 9,
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2024-01-20T19:09:47.723374Z",
+    "updated_at": "2024-01-20T19:09:47.723391Z",
+    "lead_time": 38.436
+  },
+  {
+    "text": "عايز احذف عنواني لو سمحت",
+    "label": [
+      {
+        "start": 5,
+        "end": 9,
+        "text": "احذف",
+        "labels": [
+          "delete"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 16,
+        "text": "عنواني",
+        "labels": [
+          "address"
+        ]
+      }
+    ],
+    "id": 10,
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2024-01-20T19:10:26.742141Z",
+    "updated_at": "2024-01-20T19:10:26.742155Z",
+    "lead_time": 26.641
+  },
+  {
+    "text": "دحين كيف غير رقم الجوال",
+    "label": [
+      {
+        "start": 9,
+        "end": 12,
+        "text": "غير",
+        "labels": [
+          "change"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "text": "رقم",
+        "labels": [
+          "phone_number"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 23,
+        "text": "الجوال",
+        "labels": [
+          "phone_number"
+        ]
+      }
+    ],
+    "id": 11,
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2024-01-20T19:11:07.799569Z",
+    "updated_at": "2024-01-20T19:11:07.799586Z",
+    "lead_time": 38.676
+  },
+  {
+    "text": "ممكن اعدل عنواني",
+    "label": [
+      {
+        "start": 5,
+        "end": 9,
+        "text": "اعدل",
+        "labels": [
+          "edit"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 16,
+        "text": "عنواني",
+        "labels": [
+          "address"
+        ]
+      }
+    ],
+    "id": 12,
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2024-01-20T19:11:32.229379Z",
+    "updated_at": "2024-01-20T19:11:32.229397Z",
+    "lead_time": 21.722
+  },
+  {
+    "text": "عايز احدث البيانات من فضلك",
+    "label": [
+      {
+        "start": 5,
+        "end": 9,
+        "text": "احدث",
+        "labels": [
+          "update_data"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 18,
+        "text": "البيانات",
+        "labels": [
+          "update_data"
+        ]
+      }
+    ],
+    "id": 13,
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2024-01-20T19:11:57.468657Z",
+    "updated_at": "2024-01-20T19:11:57.468674Z",
+    "lead_time": 22.912
+  },
+  {
+    "text": "وريني المنيو الرئيسي",
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "وريني",
+        "labels": [
+          "show"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 12,
+        "text": "المنيو",
+        "labels": [
+          "Menu"
+        ]
+      }
+    ],
+    "id": 14,
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2024-01-20T19:12:20.256363Z",
+    "updated_at": "2024-01-20T19:12:20.256384Z",
+    "lead_time": 19.293
+  },
+  {
+    "text": "ممكن اشوف اوردراتي الي قبل كدا",
+    "label": [
+      {
+        "start": 22,
+        "end": 26,
+        "text": " قبل",
+        "labels": [
+          "previous"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 9,
+        "text": " اشوف",
+        "labels": [
+          "show"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 18,
+        "text": "اوردراتي",
+        "labels": [
+          "order"
+        ]
+      }
+    ],
+    "id": 15,
+    "annotator": 1,
+    "annotation_id": 15,
+    "created_at": "2024-01-20T19:12:57.875320Z",
+    "updated_at": "2024-01-20T19:12:57.875336Z",
+    "lead_time": 33.588
+  },
+  {
+    "text": "فيك تعرضلي قائمة الطعام",
+    "label": [
+      {
+        "start": 3,
+        "end": 10,
+        "text": " تعرضلي",
+        "labels": [
+          "show"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "قائمة",
+        "labels": [
+          "Menu"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 23,
+        "text": "الطعام",
+        "labels": [
+          "Menu"
+        ]
+      }
+    ],
+    "id": 16,
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2024-01-20T19:13:29.735334Z",
+    "updated_at": "2024-01-20T19:13:29.735349Z",
+    "lead_time": 29.563
+  },
+  {
+    "text": "عطيني الكارت حقي",
+    "label": [
+      {
+        "start": 6,
+        "end": 12,
+        "text": "الكارت",
+        "labels": [
+          "card"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 5,
+        "text": "عطيني",
+        "labels": [
+          "show"
+        ]
+      }
+    ],
+    "id": 17,
+    "annotator": 1,
+    "annotation_id": 17,
+    "created_at": "2024-01-20T19:14:24.116241Z",
+    "updated_at": "2024-01-20T19:14:24.116258Z",
+    "lead_time": 51.81
+  },
+  {
+    "text": "3 ماك دينار مع سلطة تشيكن سيزر",
+    "label": [
+      {
+        "start": 2,
+        "end": 11,
+        "text": "ماك دينار",
+        "labels": [
+          "ItemName"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "text": " مع",
+        "labels": [
+          "add"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "text": " سلطة ",
+        "labels": [
+          "ItemName"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "text": "تشيكن ",
+        "labels": [
+          "ItemName"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "text": "سيزر",
+        "labels": [
+          "ItemName"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "text": "3",
+        "labels": [
+          "item_number"
+        ]
+      }
+    ],
+    "id": 18,
+    "annotator": 1,
+    "annotation_id": 18,
+    "created_at": "2024-01-20T19:16:40.806128Z",
+    "updated_at": "2024-01-20T19:16:40.806146Z",
+    "lead_time": 133.867
+  },
+  {
+    "text": "رقم 5",
+    "label": [
+      {
+        "start": 4,
+        "end": 5,
+        "text": "5",
+        "labels": [
+          "item_number"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 3,
+        "text": "رقم",
+        "labels": [
+          "order"
+        ]
+      }
+    ],
+    "id": 19,
+    "annotator": 1,
+    "annotation_id": 19,
+    "created_at": "2024-01-20T19:17:04.992166Z",
+    "updated_at": "2024-01-20T19:17:04.992181Z",
+    "lead_time": 20.879
+  },
+  {
+    "text": "بدياك تحضرلي الفاتورة اذا بتريد",
+    "label": [
+      {
+        "start": 12,
+        "end": 21,
+        "text": " الفاتورة",
+        "labels": [
+          "invoice"
+        ]
+      }
+    ],
+    "id": 20,
+    "annotator": 1,
+    "annotation_id": 20,
+    "created_at": "2024-01-20T19:17:50.375340Z",
+    "updated_at": "2024-01-20T19:17:50.375354Z",
+    "lead_time": 42.294
+  },
+  {
+    "text": "انا عايز الحجم الكبير",
+    "label": [
+      {
+        "start": 9,
+        "end": 15,
+        "text": "الحجم ",
+        "labels": [
+          "itemSize"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "text": "الكبير",
+        "labels": [
+          "itemSize"
+        ]
+      }
+    ],
+    "id": 21,
+    "annotator": 1,
+    "annotation_id": 21,
+    "created_at": "2024-01-20T19:18:14.108221Z",
+    "updated_at": "2024-01-20T19:18:14.108239Z",
+    "lead_time": 20.97
+  },
+  {
+    "text": "ارغب فى واحد كفته كبير بدون طحينه",
+    "label": [
+      {
+        "start": 8,
+        "end": 13,
+        "text": "واحد ",
+        "labels": [
+          "item_number"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 22,
+        "text": " كبير",
+        "labels": [
+          "itemSize"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "text": "كفته",
+        "labels": [
+          "Exclude"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 27,
+        "text": "بدون",
+        "labels": [
+          "Exclude"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 33,
+        "text": "طحينه",
+        "labels": [
+          "ingredients"
+        ]
+      }
+    ],
+    "id": 22,
+    "annotator": 1,
+    "annotation_id": 22,
+    "created_at": "2024-01-20T19:20:59.987424Z",
+    "updated_at": "2024-01-20T19:20:59.987443Z",
+    "lead_time": 163.194
+  },
+  {
+    "text": "اعرضلي كدا كل الطلبات",
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "اعرضلي",
+        "labels": [
+          "show"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "text": " الطلبات",
+        "labels": [
+          "order"
+        ]
+      }
+    ],
+    "id": 23,
+    "annotator": 1,
+    "annotation_id": 23,
+    "created_at": "2024-01-20T19:22:06.570014Z",
+    "updated_at": "2024-01-20T19:22:06.570032Z",
+    "lead_time": 57.933
+  },
+  {
+    "text": "اريد الغاء العنوان",
+    "label": [
+      {
+        "start": 5,
+        "end": 10,
+        "text": "الغاء",
+        "labels": [
+          "cancel"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 18,
+        "text": " العنوان",
+        "labels": [
+          "address"
+        ]
+      }
+    ],
+    "id": 24,
+    "annotator": 1,
+    "annotation_id": 24,
+    "created_at": "2024-01-20T19:22:46.927160Z",
+    "updated_at": "2024-01-20T19:22:46.927177Z",
+    "lead_time": 36.589
+  },
+  {
+    "text": "ايه الطوة الي جاية",
+    "label": [
+      {
+        "start": 0,
+        "end": 18,
+        "text": "ايه الطوة الي جاية",
+        "labels": [
+          "order"
+        ]
+      }
+    ],
+    "id": 25,
+    "annotator": 1,
+    "annotation_id": 25,
+    "created_at": "2024-01-20T19:23:26.117714Z",
+    "updated_at": "2024-01-20T19:23:26.117734Z",
+    "lead_time": 36.308
+  },
+  {
+    "text": "ممكن اغير اللغة",
+    "label": [
+      {
+        "start": 4,
+        "end": 10,
+        "text": " اغير ",
+        "labels": [
+          "change"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "text": "اللغة",
+        "labels": [
+          "Language"
+        ]
+      }
+    ],
+    "id": 26,
+    "annotator": 1,
+    "annotation_id": 26,
+    "created_at": "2024-01-20T19:23:50.847276Z",
+    "updated_at": "2024-01-20T19:23:50.847294Z",
+    "lead_time": 22.183
+  },
+  {
+    "text": "اقدر الغي عنواني",
+    "label": [
+      {
+        "start": 4,
+        "end": 9,
+        "text": " الغي",
+        "labels": [
+          "cancel"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 16,
+        "text": "عنواني",
+        "labels": [
+          "address"
+        ]
+      }
+    ],
+    "id": 27,
+    "annotator": 1,
+    "annotation_id": 27,
+    "created_at": "2024-01-20T19:24:38.477628Z",
+    "updated_at": "2024-01-20T19:24:38.477646Z",
+    "lead_time": 44.338
+  },
+  {
+    "text": "سويلي اوردر بيتزا سوبر سوبريم ستافد كراست من غير بصل",
+    "label": [
+      {
+        "start": 5,
+        "end": 11,
+        "text": " اوردر",
+        "labels": [
+          "order"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "text": "بيتزا",
+        "labels": [
+          "ItemName"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "text": "سوبر",
+        "labels": [
+          "ItemName"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 29,
+        "text": "سوبريم",
+        "labels": [
+          "ItemName"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "text": "ستافد ",
+        "labels": [
+          "ItemName"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "text": "كراست",
+        "labels": [
+          "ItemName"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 48,
+        "text": " غير",
+        "labels": [
+          "Exclude"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 52,
+        "text": " بصل",
+        "labels": [
+          "Exclude"
+        ]
+      }
+    ],
+    "id": 28,
+    "annotator": 1,
+    "annotation_id": 28,
+    "created_at": "2024-01-20T19:25:53.094659Z",
+    "updated_at": "2024-01-20T19:25:53.094677Z",
+    "lead_time": 71.199
+  },
+  {
+    "text": "عايز اشوف حسابى كام دلوقتى",
+    "label": [
+      {
+        "start": 10,
+        "end": 15,
+        "text": "حسابى",
+        "labels": [
+          "invoice"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "text": "كام",
+        "labels": [
+          "invoice"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "text": "اشوف",
+        "labels": [
+          "show"
+        ]
+      }
+    ],
+    "id": 29,
+    "annotator": 1,
+    "annotation_id": 29,
+    "created_at": "2024-01-20T19:26:19.300649Z",
+    "updated_at": "2024-01-20T19:26:19.300666Z",
+    "lead_time": 23.574
+  },
+  {
+    "text": "ابا غير رقم الجوال حجي",
+    "label": [
+      {
+        "start": 4,
+        "end": 8,
+        "text": "غير ",
+        "labels": [
+          "edit"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "text": "رقم",
+        "labels": [
+          "phone_number"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 18,
+        "text": "الجوال",
+        "labels": [
+          "phone_number"
+        ]
+      }
+    ],
+    "id": 30,
+    "annotator": 1,
+    "annotation_id": 30,
+    "created_at": "2024-01-20T19:26:46.174701Z",
+    "updated_at": "2024-01-20T19:26:46.174724Z",
+    "lead_time": 24.485
+  },
+  {
+    "text": "الاوردر مجاش لحد دلوقتي",
+    "label": [
+      {
+        "start": 7,
+        "end": 12,
+        "text": " مجاش",
+        "labels": [
+          "late"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 7,
+        "text": "الاوردر",
+        "labels": [
+          "order"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "text": "لحد ",
+        "labels": [
+          "late"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 23,
+        "text": "دلوقتي",
+        "labels": [
+          "late"
+        ]
+      }
+    ],
+    "id": 31,
+    "annotator": 1,
+    "annotation_id": 31,
+    "created_at": "2024-01-20T19:27:48.865682Z",
+    "updated_at": "2024-01-20T19:27:48.865704Z",
+    "lead_time": 59.54
+  },
+  {
+    "text": "احتاج الى تبديل لغة التواصل",
+    "label": [
+      {
+        "start": 9,
+        "end": 15,
+        "text": " تبديل",
+        "labels": [
+          "edit"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "text": "لغة",
+        "labels": [
+          "Language"
+        ]
+      }
+    ],
+    "id": 32,
+    "annotator": 1,
+    "annotation_id": 32,
+    "created_at": "2024-01-20T19:28:11.323332Z",
+    "updated_at": "2024-01-20T19:28:11.323345Z",
+    "lead_time": 20.161
+  },
+  {
+    "text": "هلأ بدي احذف العنوان اذا بتريد",
+    "label": [
+      {
+        "start": 8,
+        "end": 12,
+        "text": "احذف",
+        "labels": [
+          "delete"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 20,
+        "text": "العنوان",
+        "labels": [
+          "address"
+        ]
+      }
+    ],
+    "id": 33,
+    "annotator": 1,
+    "annotation_id": 33,
+    "created_at": "2024-01-20T19:28:35.103346Z",
+    "updated_at": "2024-01-20T19:28:35.103362Z",
+    "lead_time": 17.343
+  },
+  {
+    "text": "ممكن تضيفلي الهابي ميل",
+    "label": [
+      {
+        "start": 5,
+        "end": 11,
+        "text": "تضيفلي",
+        "labels": [
+          "add"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 18,
+        "text": "الهابي",
+        "labels": [
+          "ItemName"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "text": "ميل",
+        "labels": [
+          "ItemName"
+        ]
+      }
+    ],
+    "id": 34,
+    "annotator": 1,
+    "annotation_id": 34,
+    "created_at": "2024-01-20T19:29:15.595103Z",
+    "updated_at": "2024-01-20T19:29:15.595124Z",
+    "lead_time": 37.257
+  },
+  {
+    "text": "الله يسلم عليك",
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "الله",
+        "labels": [
+          "Gbu"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "text": "يسلم",
+        "labels": [
+          "Gbu"
+        ]
+      }
+    ],
+    "id": 35,
+    "annotator": 1,
+    "annotation_id": 35,
+    "created_at": "2024-01-20T19:30:00.602715Z",
+    "updated_at": "2024-01-20T19:30:00.602732Z",
+    "lead_time": 42.245
+  },
+  {
+    "text": "عايزة اشوف طلباتي السابقة",
+    "label": [
+      {
+        "start": 6,
+        "end": 10,
+        "text": "اشوف",
+        "labels": [
+          "show"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "text": "طلباتي",
+        "labels": [
+          "order"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 25,
+        "text": " السابقة",
+        "labels": [
+          "previous"
+        ]
+      }
+    ],
+    "id": 36,
+    "annotator": 1,
+    "annotation_id": 36,
+    "created_at": "2024-01-20T19:30:30.754140Z",
+    "updated_at": "2024-01-20T19:30:30.754163Z",
+    "lead_time": 26.683
+  },
+  {
+    "text": "عايز منيو الاطباق الرئيسية في سبكترا",
+    "label": [
+      {
+        "start": 5,
+        "end": 10,
+        "text": "منيو ",
+        "labels": [
+          "Menu"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 17,
+        "text": "الاطباق",
+        "labels": [
+          "Menu"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "text": "سبكترا",
+        "labels": [
+          "location"
+        ]
+      }
+    ],
+    "id": 37,
+    "annotator": 1,
+    "annotation_id": 37,
+    "created_at": "2024-01-20T19:31:11.067879Z",
+    "updated_at": "2024-01-20T19:31:11.067899Z",
+    "lead_time": 37.295
+  },
+  {
+    "text": "عايزة قائمة تغيير البيانات",
+    "label": [
+      {
+        "start": 6,
+        "end": 11,
+        "text": "قائمة",
+        "labels": [
+          "Menu"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "text": " تغيير",
+        "labels": [
+          "change"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 26,
+        "text": "البيانات",
+        "labels": [
+          "update_data"
+        ]
+      }
+    ],
+    "id": 38,
+    "annotator": 1,
+    "annotation_id": 38,
+    "created_at": "2024-01-20T19:32:01.711681Z",
+    "updated_at": "2024-01-20T19:32:01.711697Z",
+    "lead_time": 44.584
+  },
+  {
+    "text": "ابغا اتنين جلابينو ساندوتش كبير",
+    "label": [
+      {
+        "start": 5,
+        "end": 10,
+        "text": "اتنين",
+        "labels": [
+          "item_number"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 18,
+        "text": "جلابينو",
+        "labels": [
+          "ItemName"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 26,
+        "text": "ساندوتش",
+        "labels": [
+          "ItemName"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 31,
+        "text": "كبير",
+        "labels": [
+          "itemSize"
+        ]
+      }
+    ],
+    "id": 39,
+    "annotator": 1,
+    "annotation_id": 39,
+    "created_at": "2024-01-20T19:32:41.963566Z",
+    "updated_at": "2024-01-20T19:32:41.963584Z",
+    "lead_time": 37.448
+  },
+  {
+    "text": "عايزة اغير لغة التواصل الى الانجليزية",
+    "label": [
+      {
+        "start": 6,
+        "end": 10,
+        "text": "اغير",
+        "labels": [
+          "change"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "text": "لغة",
+        "labels": [
+          "Language"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 37,
+        "text": " الانجليزية",
+        "labels": [
+          "Language"
+        ]
+      }
+    ],
+    "id": 40,
+    "annotator": 1,
+    "annotation_id": 40,
+    "created_at": "2024-01-20T19:33:36.278867Z",
+    "updated_at": "2024-01-20T19:33:36.278883Z",
+    "lead_time": 50.395
+  },
+  {
+    "text": "ابي الغي عنواني القديم",
+    "label": [
+      {
+        "start": 4,
+        "end": 8,
+        "text": "الغي",
+        "labels": [
+          "delete"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "text": "عنواني",
+        "labels": [
+          "address"
+        ]
+      }
+    ],
+    "id": 41,
+    "annotator": 1,
+    "annotation_id": 41,
+    "created_at": "2024-01-20T19:34:13.692938Z",
+    "updated_at": "2024-01-20T19:34:13.692956Z",
+    "lead_time": 33.402
+  },
+  {
+    "text": "راح فرجيكن العنوان تبعي",
+    "label": [
+      {
+        "start": 3,
+        "end": 10,
+        "text": " فرجيكن",
+        "labels": [
+          "show"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 18,
+        "text": "العنوان",
+        "labels": [
+          "address"
+        ]
+      }
+    ],
+    "id": 42,
+    "annotator": 1,
+    "annotation_id": 42,
+    "created_at": "2024-01-20T19:34:35.010285Z",
+    "updated_at": "2024-01-20T19:34:35.010302Z",
+    "lead_time": 18.402
+  },
+  {
+    "text": "عايزة اعرف الاوردر فاضله اد ايه",
+    "label": [
+      {
+        "start": 6,
+        "end": 10,
+        "text": "اعرف",
+        "labels": [
+          "show"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 18,
+        "text": "الاوردر",
+        "labels": [
+          "order"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 24,
+        "text": "فاضله",
+        "labels": [
+          "late"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "text": "اد",
+        "labels": [
+          "late"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "text": "ايه",
+        "labels": [
+          "late"
+        ]
+      }
+    ],
+    "id": 43,
+    "annotator": 1,
+    "annotation_id": 43,
+    "created_at": "2024-01-20T19:35:55.780299Z",
+    "updated_at": "2024-01-20T19:35:55.780319Z",
+    "lead_time": 73.337
+  },
+  {
+    "text": "بليز فيك تغيرلي رقم الموبايل",
+    "label": [
+      {
+        "start": 9,
+        "end": 15,
+        "text": "تغيرلي",
+        "labels": [
+          "change"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "text": "رقم",
+        "labels": [
+          "phone_number"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "text": "الموبايل",
+        "labels": [
+          "phone_number"
+        ]
+      }
+    ],
+    "id": 44,
+    "annotator": 1,
+    "annotation_id": 44,
+    "created_at": "2024-01-20T19:36:34.446553Z",
+    "updated_at": "2024-01-20T19:36:34.446567Z",
+    "lead_time": 35.708
+  },
+  {
+    "text": "عايزة امسح عنوان البيت",
+    "label": [
+      {
+        "start": 6,
+        "end": 10,
+        "text": "امسح",
+        "labels": [
+          "delete"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "عنوان",
+        "labels": [
+          "address"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 22,
+        "text": "البيت",
+        "labels": [
+          "address"
+        ]
+      }
+    ],
+    "id": 45,
+    "annotator": 1,
+    "annotation_id": 45,
+    "created_at": "2024-01-20T19:37:33.094514Z",
+    "updated_at": "2024-01-20T19:37:33.094537Z",
+    "lead_time": 55.43
+  },
+  {
+    "text": "بدي امسح العنوان المسجل",
+    "label": [
+      {
+        "start": 4,
+        "end": 8,
+        "text": "امسح",
+        "labels": [
+          "delete"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 16,
+        "text": "العنوان",
+        "labels": [
+          "address"
+        ]
+      }
+    ],
+    "id": 46,
+    "annotator": 1,
+    "annotation_id": 46,
+    "created_at": "2024-01-20T19:37:57.909516Z",
+    "updated_at": "2024-01-20T19:37:57.909560Z",
+    "lead_time": 21.752
+  },
+  {
+    "text": "كان بدي اضيف عنوان",
+    "label": [
+      {
+        "start": 8,
+        "end": 12,
+        "text": "اضيف",
+        "labels": [
+          "add"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "text": "عنوان",
+        "labels": [
+          "address"
+        ]
+      }
+    ],
+    "id": 47,
+    "annotator": 1,
+    "annotation_id": 47,
+    "created_at": "2024-01-20T19:38:24.237773Z",
+    "updated_at": "2024-01-20T19:38:24.237791Z",
+    "lead_time": 23.818
+  },
+  {
+    "text": "ايه المشاكل فى الاوردر موصلش لحد دلوقتى",
+    "label": [
+      {
+        "start": 15,
+        "end": 22,
+        "text": "الاوردر",
+        "labels": [
+          "address"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 28,
+        "text": "موصلش",
+        "labels": [
+          "late"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "text": "دلوقتى",
+        "labels": [
+          "late"
+        ]
+      }
+    ],
+    "id": 48,
+    "annotator": 1,
+    "annotation_id": 48,
+    "created_at": "2024-01-20T19:39:48.969946Z",
+    "updated_at": "2024-01-20T19:39:48.969965Z",
+    "lead_time": 81.914
+  },
+  {
+    "text": "راح اطلبها صغيرة",
+    "label": [
+      {
+        "start": 4,
+        "end": 10,
+        "text": "اطلبها",
+        "labels": [
+          "Menu"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "صغيرة",
+        "labels": [
+          "itemSize"
+        ]
+      }
+    ],
+    "id": 49,
+    "annotator": 1,
+    "annotation_id": 49,
+    "created_at": "2024-01-20T19:40:12.843254Z",
+    "updated_at": "2024-01-20T19:40:12.843269Z",
+    "lead_time": 20.732
+  },
+  {
+    "text": "من فضلك تغير رقم موبايلي الى 01552687474",
+    "label": [
+      {
+        "start": 29,
+        "end": 40,
+        "text": "01552687474",
+        "labels": [
+          "phone_number"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "text": "تغير",
+        "labels": [
+          "change"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "text": "رقم",
+        "labels": [
+          "phone_number"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 24,
+        "text": "موبايلي",
+        "labels": [
+          "phone_number"
+        ]
+      }
+    ],
+    "id": 58,
+    "annotator": 1,
+    "annotation_id": 50,
+    "created_at": "2024-01-20T19:40:56.583330Z",
+    "updated_at": "2024-01-20T19:40:56.583342Z",
+    "lead_time": 35.633
+  },
+  {
+    "text": "عايزة الاوردرات القديمة",
+    "label": [
+      {
+        "start": 16,
+        "end": 23,
+        "text": "القديمة",
+        "labels": [
+          "previous"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 15,
+        "text": "الاوردرات",
+        "labels": [
+          "order"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 5,
+        "text": "عايزة",
+        "labels": [
+          "show"
+        ]
+      }
+    ],
+    "id": 59,
+    "annotator": 1,
+    "annotation_id": 51,
+    "created_at": "2024-01-20T19:41:12.664156Z",
+    "updated_at": "2024-01-20T19:41:12.664192Z",
+    "lead_time": 12.428
+  },
+  {
+    "text": "لك قديش وقت بياخد",
+    "label": [
+      {
+        "start": 3,
+        "end": 7,
+        "text": "قديش",
+        "labels": [
+          "show"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "text": "وقت",
+        "labels": [
+          "late"
+        ]
+      }
+    ],
+    "id": 61,
+    "annotator": 1,
+    "annotation_id": 67,
+    "created_at": "2024-01-20T19:50:46.366647Z",
+    "updated_at": "2024-01-20T19:50:46.366663Z",
+    "lead_time": 29.271
+  },
+  {
+    "text": "بدي شيل العنوان تبعي",
+    "label": [
+      {
+        "start": 4,
+        "end": 7,
+        "text": "شيل",
+        "labels": [
+          "edit"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 15,
+        "text": "العنوان",
+        "labels": [
+          "address"
+        ]
+      }
+    ],
+    "id": 72,
+    "annotator": 1,
+    "annotation_id": 53,
+    "created_at": "2024-01-20T19:42:14.644282Z",
+    "updated_at": "2024-01-20T19:42:14.644299Z",
+    "lead_time": 16.995
+  },
+  {
+    "text": "هاخد 2 كوردن بلو",
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "هاخد",
+        "labels": [
+          "show"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "text": "2",
+        "labels": [
+          "item_number"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 12,
+        "text": "كوردن",
+        "labels": [
+          "ItemName"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "text": "بلو",
+        "labels": [
+          "ItemName"
+        ]
+      }
+    ],
+    "id": 73,
+    "annotator": 1,
+    "annotation_id": 52,
+    "created_at": "2024-01-20T19:41:45.971147Z",
+    "updated_at": "2024-01-20T19:41:45.971168Z",
+    "lead_time": 20.427
+  },
+  {
+    "text": "عايزها كبيرة",
+    "label": [
+      {
+        "start": 7,
+        "end": 12,
+        "text": "كبيرة",
+        "labels": [
+          "itemSize"
+        ]
+      }
+    ],
+    "id": 76,
+    "annotator": 1,
+    "annotation_id": 54,
+    "created_at": "2024-01-20T19:42:28.761995Z",
+    "updated_at": "2024-01-20T19:42:28.762017Z",
+    "lead_time": 6.537
+  },
+  {
+    "text": "فيك تغيرلي اللغة بليز",
+    "label": [
+      {
+        "start": 4,
+        "end": 10,
+        "text": "تغيرلي",
+        "labels": [
+          "change"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "اللغة",
+        "labels": [
+          "Language"
+        ]
+      }
+    ],
+    "id": 77,
+    "annotator": 1,
+    "annotation_id": 55,
+    "created_at": "2024-01-20T19:42:43.829048Z",
+    "updated_at": "2024-01-20T19:42:43.829066Z",
+    "lead_time": 11.796
+  },
+  {
+    "text": "بدياك تطلعنى على الاوردر رقم 8896 لانه ماوصل للحين",
+    "label": [
+      {
+        "start": 6,
+        "end": 12,
+        "text": "تطلعنى",
+        "labels": [
+          "show"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 24,
+        "text": "الاوردر",
+        "labels": [
+          "order"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "text": "رقم",
+        "labels": [
+          "number"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 33,
+        "text": "8896",
+        "labels": [
+          "number"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "text": "ماوصل",
+        "labels": [
+          "late"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 50,
+        "text": "للحين",
+        "labels": [
+          "late"
+        ]
+      }
+    ],
+    "id": 78,
+    "annotator": 1,
+    "annotation_id": 56,
+    "created_at": "2024-01-20T19:43:38.824985Z",
+    "updated_at": "2024-01-20T19:43:38.825005Z",
+    "lead_time": 52.367
+  },
+  {
+    "text": "فيك تفرجيني قائمة الطعام تبعكن",
+    "label": [
+      {
+        "start": 4,
+        "end": 11,
+        "text": "تفرجيني",
+        "labels": [
+          "show"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "text": "قائمة",
+        "labels": [
+          "Menu"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "text": "الطعام",
+        "labels": [
+          "Menu"
+        ]
+      }
+    ],
+    "id": 79,
+    "annotator": 1,
+    "annotation_id": 63,
+    "created_at": "2024-01-20T19:48:10.450701Z",
+    "updated_at": "2024-01-20T19:48:10.450718Z",
+    "lead_time": 15.377
+  },
+  {
+    "text": "فيك تبعتلي قائمة السندوتشات اذا بتريد",
+    "label": [
+      {
+        "start": 4,
+        "end": 10,
+        "text": "تبعتلي",
+        "labels": [
+          "show"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "قائمة",
+        "labels": [
+          "Menu"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 27,
+        "text": "السندوتشات",
+        "labels": [
+          "ItemName"
+        ]
+      }
+    ],
+    "id": 80,
+    "annotator": 1,
+    "annotation_id": 64,
+    "created_at": "2024-01-20T19:48:49.777799Z",
+    "updated_at": "2024-01-20T19:48:49.777819Z",
+    "lead_time": 34.789
+  },
+  {
+    "text": "بطا الاوردر",
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "بطا",
+        "labels": [
+          "late"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 11,
+        "text": "الاوردر",
+        "labels": [
+          "order"
+        ]
+      }
+    ],
+    "id": 81,
+    "annotator": 1,
+    "annotation_id": 57,
+    "created_at": "2024-01-20T19:44:10.718506Z",
+    "updated_at": "2024-01-20T19:44:10.718521Z",
+    "lead_time": 25.622
+  },
+  {
+    "text": "اهوا فى القاء نظره على الاشياء التى طلبتها",
+    "label": [
+      {
+        "start": 8,
+        "end": 13,
+        "text": "القاء",
+        "labels": [
+          "show"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "text": "نظره",
+        "labels": [
+          "show"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 30,
+        "text": "الاشياء",
+        "labels": [
+          "order"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 30,
+        "text": "الاشياء",
+        "labels": [
+          "ItemName"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "text": "طلبتها",
+        "labels": [
+          "order"
+        ]
+      }
+    ],
+    "id": 82,
+    "annotator": 1,
+    "annotation_id": 65,
+    "created_at": "2024-01-20T19:49:33.580340Z",
+    "updated_at": "2024-01-20T19:49:33.580357Z",
+    "lead_time": 38.84
+  },
+  {
+    "text": "ممكن اروح على القائمة الرئيسية",
+    "label": [
+      {
+        "start": 14,
+        "end": 21,
+        "text": "القائمة",
+        "labels": [
+          "Menu"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "text": "اروح",
+        "labels": [
+          "show"
+        ]
+      }
+    ],
+    "id": 83,
+    "annotator": 1,
+    "annotation_id": 66,
+    "created_at": "2024-01-20T19:50:04.186915Z",
+    "updated_at": "2024-01-20T19:50:04.186935Z",
+    "lead_time": 27.059
+  },
+  {
+    "text": "حدثلى رقم هاتفى للرقم 015248575",
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "حدثلى",
+        "labels": [
+          "update_data"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "text": "رقم",
+        "labels": [
+          "phone_number"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "text": "هاتفى",
+        "labels": [
+          "phone_number"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "text": "للرقم",
+        "labels": [
+          "phone_number"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 31,
+        "text": "015248575",
+        "labels": [
+          "phone_number"
+        ]
+      }
+    ],
+    "id": 84,
+    "annotator": 1,
+    "annotation_id": 58,
+    "created_at": "2024-01-20T19:44:44.079041Z",
+    "updated_at": "2024-01-20T19:44:44.079062Z",
+    "lead_time": 30.521
+  },
+  {
+    "text": "لو سمحت اعملي حذف للرقم ده 45454444 عشان هضيف رقم تاني",
+    "label": [
+      {
+        "start": 14,
+        "end": 17,
+        "text": "حذف",
+        "labels": [
+          "delete"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "text": "للرقم",
+        "labels": [
+          "number"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "text": "45454444",
+        "labels": [
+          "number"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 45,
+        "text": "هضيف",
+        "labels": [
+          "order"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 49,
+        "text": "رقم",
+        "labels": [
+          "add"
+        ]
+      }
+    ],
+    "id": 85,
+    "annotator": 1,
+    "annotation_id": 59,
+    "created_at": "2024-01-20T19:46:50.677473Z",
+    "updated_at": "2024-01-20T19:46:50.677493Z",
+    "lead_time": 122.053
+  },
+  {
+    "text": "لو سمحت عايزة اعرف اسجل بياناتي ازاي",
+    "label": [
+      {
+        "start": 19,
+        "end": 23,
+        "text": "اسجل",
+        "labels": [
+          "update_data"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "text": "بياناتي",
+        "labels": [
+          "update_data"
+        ]
+      }
+    ],
+    "id": 86,
+    "annotator": 1,
+    "annotation_id": 60,
+    "created_at": "2024-01-20T19:47:15.384937Z",
+    "updated_at": "2024-01-20T19:47:15.384954Z",
+    "lead_time": 21.558
+  },
+  {
+    "text": "عايز القائمة السابقة",
+    "label": [
+      {
+        "start": 5,
+        "end": 12,
+        "text": "القائمة",
+        "labels": [
+          "Menu"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 20,
+        "text": "السابقة",
+        "labels": [
+          "previous"
+        ]
+      }
+    ],
+    "id": 87,
+    "annotator": 1,
+    "annotation_id": 61,
+    "created_at": "2024-01-20T19:47:28.943274Z",
+    "updated_at": "2024-01-20T19:47:28.943292Z",
+    "lead_time": 9.722
+  },
+  {
+    "text": "عايز اغير عنواني",
+    "label": [
+      {
+        "start": 5,
+        "end": 9,
+        "text": "اغير",
+        "labels": [
+          "change"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 16,
+        "text": "عنواني",
+        "labels": [
+          "address"
+        ]
+      }
+    ],
+    "id": 88,
+    "annotator": 1,
+    "annotation_id": 62,
+    "created_at": "2024-01-20T19:47:45.255648Z",
+    "updated_at": "2024-01-20T19:47:45.255666Z",
+    "lead_time": 13.851
+  }
+]

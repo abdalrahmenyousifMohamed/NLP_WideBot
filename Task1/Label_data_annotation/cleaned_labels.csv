@@ -1,0 +1,185 @@
+,text,label
+0,احط ,add
+1, عنوان ,address
+2, الفاتورة ,invoice
+3, اغير  ,change
+4,عنوان ,address
+5,اغير ,change
+6,عنواني ,address
+7,منيو ,Menu
+8,جامعة الدول ,location
+9, شوف ,show
+10, البيتزا ,ItemName
+11,ايش عندكن ,Menu
+12, الاوردر ,order
+13,تابعلي ,show
+14,احذف ,delete
+15,العنوان ,address
+16,الاسبانية ,Language
+17, احدد ,add
+18,احذف ,delete
+19,عنواني ,address
+20,غير ,change
+21,رقم ,phone_number
+22,الجوال ,phone_number
+23,اعدل ,edit
+24,عنواني ,address
+25,احدث ,update_data
+26,البيانات ,update_data
+27,وريني ,show
+28,المنيو ,Menu
+29, قبل ,previous
+30, اشوف ,show
+31,اوردراتي ,order
+32, تعرضلي ,show
+33,قائمة ,Menu
+34,الطعام ,Menu
+35,الكارت ,card
+36,عطيني ,show
+37,ماك دينار ,ItemName
+38, مع ,add
+39, سلطة  ,ItemName
+40,تشيكن  ,ItemName
+41,سيزر ,ItemName
+42,3 ,item_number
+43,5 ,item_number
+44,رقم ,order
+45, الفاتورة ,invoice
+46,الحجم  ,itemSize
+47,الكبير ,itemSize
+48,واحد  ,item_number
+49, كبير ,itemSize
+50,كفته ,Exclude
+51,بدون ,Exclude
+52,طحينه ,ingredients
+53,اعرضلي ,show
+54, الطلبات ,order
+55,الغاء ,cancel
+56, العنوان ,address
+57,ايه الطوة الي جاية ,order
+58, اغير  ,change
+59,اللغة ,Language
+60, الغي ,cancel
+61,عنواني ,address
+62, اوردر ,order
+63,بيتزا ,ItemName
+64,سوبر ,ItemName
+65,سوبريم ,ItemName
+66,ستافد  ,ItemName
+67,كراست ,ItemName
+68, غير ,Exclude
+69, بصل ,Exclude
+70,حسابى ,invoice
+71,كام ,invoice
+72,اشوف ,show
+73,غير  ,edit
+74,رقم ,phone_number
+75,الجوال ,phone_number
+76, مجاش ,late
+77,الاوردر ,order
+78,لحد  ,late
+79,دلوقتي ,late
+80, تبديل ,edit
+81,لغة ,Language
+82,احذف ,delete
+83,العنوان ,address
+84,تضيفلي ,add
+85,الهابي ,ItemName
+86,ميل ,ItemName
+87,الله ,Gbu
+88,يسلم ,Gbu
+89,اشوف ,show
+90,طلباتي ,order
+91, السابقة ,previous
+92,منيو  ,Menu
+93,الاطباق ,Menu
+94,سبكترا ,location
+95,قائمة ,Menu
+96, تغيير ,change
+97,البيانات ,update_data
+98,اتنين ,item_number
+99,جلابينو ,ItemName
+100,ساندوتش ,ItemName
+101,كبير ,itemSize
+102,اغير ,change
+103,لغة ,Language
+104, الانجليزية ,Language
+105,الغي ,delete
+106,عنواني ,address
+107, فرجيكن ,show
+108,العنوان ,address
+109,اعرف ,show
+110,الاوردر ,order
+111,فاضله ,late
+112,اد ,late
+113,ايه ,late
+114,تغيرلي ,change
+115,رقم ,phone_number
+116,الموبايل ,phone_number
+117,امسح ,delete
+118,عنوان ,address
+119,البيت ,address
+120,امسح ,delete
+121,العنوان ,address
+122,اضيف ,add
+123,عنوان ,address
+124,الاوردر ,address
+125,موصلش ,late
+126,دلوقتى ,late
+127,اطلبها ,Menu
+128,صغيرة ,itemSize
+129,01552687474 ,phone_number
+130,تغير ,change
+131,رقم ,phone_number
+132,موبايلي ,phone_number
+133,القديمة ,previous
+134,الاوردرات ,order
+135,عايزة ,show
+136,قديش ,show
+137,وقت ,late
+138,شيل ,edit
+139,العنوان ,address
+140,هاخد ,show
+141,2 ,item_number
+142,كوردن ,ItemName
+143,بلو ,ItemName
+144,كبيرة ,itemSize
+145,تغيرلي ,change
+146,اللغة ,Language
+147,تطلعنى ,show
+148,الاوردر ,order
+149,رقم ,number
+150,8896 ,number
+151,ماوصل ,late
+152,للحين ,late
+153,تفرجيني ,show
+154,قائمة ,Menu
+155,الطعام ,Menu
+156,تبعتلي ,show
+157,قائمة ,Menu
+158,السندوتشات ,ItemName
+159,بطا ,late
+160,الاوردر ,order
+161,القاء ,show
+162,نظره ,show
+163,الاشياء ,order
+164,الاشياء ,ItemName
+165,طلبتها ,order
+166,القائمة ,Menu
+167,اروح ,show
+168,حدثلى ,update_data
+169,رقم ,phone_number
+170,هاتفى ,phone_number
+171,للرقم ,phone_number
+172,015248575 ,phone_number
+173,حذف ,delete
+174,للرقم ,number
+175,45454444 ,number
+176,هضيف ,order
+177,رقم ,add
+178,اسجل ,update_data
+179,بياناتي ,update_data
+180,القائمة ,Menu
+181,السابقة ,previous
+182,اغير ,change
+183,عنواني ,address

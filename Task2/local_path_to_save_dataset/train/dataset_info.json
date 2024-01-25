@@ -1,0 +1,38 @@
+{
+  "builder_name": "text",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "arabic-unique-words",
+  "dataset_size": 3086650,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/mohamedabdullah/Arabic-unique-words@fd2fdb2997975cdc6265810851260469391a255c/ar_vocab.txt": {
+      "num_bytes": 3086646,
+      "checksum": null
+    }
+  },
+  "download_size": 3086646,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 6173296,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 3086650,
+      "num_examples": 1,
+      "dataset_name": "arabic-unique-words"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

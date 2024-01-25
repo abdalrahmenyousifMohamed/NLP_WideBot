@@ -1,0 +1,5031 @@
+,new_text,new_label
+0,عايزة احط عنوان,show add address
+1,الفاتورة,invoice
+2,عايزة اغير عنوان البيت,show change address address
+3,اغير عنواني,change address
+4,منيو,Menu
+5,شوف البيتزا,show ItemName
+6,تابعلي الاوردر,show order
+7,احذف العنوان,delete address
+8,احدد اللغة الاسبانية,add Language Language
+9,احذف عنواني,delete address
+10,غير رقم الجوال,change phone_number phone_number
+11,اعدل عنواني,edit address
+12,احدث البيانات,update_data update_data
+13,وريني المنيو,show Menu
+14,اشوف اوردراتي قبل,show order previous
+15,تعرضلي قائمة الطعام,show Menu Menu
+16,عطيني الكارت,show card
+17,3 مع سلطة تشيكن سيزر,item_number add ItemName ItemName ItemName
+18,رقم 5,phone_number item_number
+19,الفاتورة,invoice
+20,الحجم الكبير,itemSize itemSize
+21,واحد كفته كبير بدون طحينه,item_number Exclude itemSize Exclude ingredients
+22,اعرضلي الطلبات,show order
+23,الغاء العنوان,cancel address
+24,ايه,late
+25,اغير اللغة,change Language
+26,الغي عنواني,cancel address
+27,اوردر بيتزا سوبر سوبريم ستافد كراست غير بصل,order ItemName ItemName ItemName ItemName ItemName change Exclude
+28,اشوف حسابى كام دلوقتى,show invoice invoice late
+29,غير رقم الجوال,change phone_number phone_number
+30,الاوردر مجاش لحد دلوقتي,order late late late
+31,تبديل لغة,edit Language
+32,احذف العنوان,delete address
+33,تضيفلي الهابي ميل,add ItemName ItemName
+34,الله يسلم,Gbu Gbu
+35,عايزة اشوف طلباتي السابقة,show show order previous
+36,منيو الاطباق سبكترا,Menu Menu location
+37,عايزة قائمة تغيير البيانات,show Menu change update_data
+38,اتنين جلابينو ساندوتش كبير,item_number ItemName ItemName itemSize
+39,عايزة اغير لغة الانجليزية,show change Language Language
+40,الغي عنواني,cancel address
+41,فرجيكن العنوان,show address
+42,عايزة اعرف الاوردر فاضله اد ايه,show show order late late late
+43,تغيرلي رقم الموبايل,change phone_number phone_number
+44,عايزة امسح عنوان البيت,show delete address address
+45,امسح العنوان,delete address
+46,اضيف عنوان,add address
+47,ايه الاوردر موصلش لحد دلوقتى,late order late late late
+48,اطلبها صغيرة,Menu itemSize
+49,غير اللغة,change Language
+50,اعرف,show
+51,,
+52,مع,add
+53,بلو,ItemName
+54,غير,change
+55,اشوف الاوردر,show order
+56,الطلبات,order
+57,تغير رقم موبايلي 01552687474,change phone_number phone_number phone_number
+58,عايزة الاوردرات القديمة,show order previous
+59,غير لغة,change Language
+60,قديش وقت,show late
+61,اشوف,show
+62,تفرجيني القائمة,show Menu
+63,هضيف,order
+64,الاوردرات طلبتها قبل,order order previous
+65,,
+66,عايزة 3 بيتزا,show item_number ItemName
+67,عايزة,show
+68,,
+69,,
+70,وريني الاوردر,show order
+71,شيل العنوان,edit address
+72,هاخد 2 كوردن بلو,show item_number ItemName ItemName
+73,الاوردر,order
+74,الاوردر لحد,order late
+75,كبيرة,itemSize
+76,تغيرلي اللغة,change Language
+77,تطلعنى الاوردر رقم 8896 ماوصل للحين,show order phone_number number late late
+78,تفرجيني قائمة الطعام,show Menu Menu
+79,تبعتلي قائمة السندوتشات,show Menu ItemName
+80,بطا الاوردر,late order
+81,القاء نظره الاشياء طلبتها,show show order order
+82,اروح القائمة,show Menu
+83,حدثلى رقم هاتفى للرقم 015248575,update_data phone_number phone_number phone_number phone_number
+84,حذف للرقم 45454444 هضيف رقم,delete phone_number number order phone_number
+85,عايزة اعرف اسجل بياناتي,show show update_data update_data
+86,القائمة السابقة,Menu previous
+87,اغير عنواني,change address
+88,الفاتورة,invoice
+89,طلبتها,order
+90,اللغة,Language
+91,الغي,cancel
+92,اوردر,order
+93,عايزة,show
+94,3,item_number
+95,تبعتلي,show
+96,,
+97,عايزة اغير لغة,show change Language
+98,المنيو,Menu
+99,عايزة اشوف الطلبات السابقة,show show order previous
+100,مع,add
+101,تعرضلي,show
+102,اضيف رقم,add phone_number
+103,قديش وقت,show late
+104,مع,add
+105,اغير,change
+106,قائمة الطعام,Menu Menu
+107,تغيير عنوان البيت,change address address
+108,اعرف,show
+109,,
+110,اسجل عنوان البيت,update_data address address
+111,الطلبات طلبتها,order order
+112,القائمة,Menu
+113,,
+114,الفاتورة,invoice
+115,,
+116,عنواني,address
+117,تفرجيني قائمة الطلبات السابقة,show Menu order previous
+118,مع,add
+119,,
+120,,
+121,رقم للرقم,phone_number phone_number
+122,صغيرة,itemSize
+123,شوف الطلبات السابقة,show order previous
+124,,
+125,كام,invoice
+126,شوف ايه,show late
+127,,
+128,,
+129,القائمة,Menu
+130,ساندوتش,ItemName
+131,,
+132,ساندوتش,ItemName
+133,كبير,itemSize
+134,2 بيتزا كبيرة بدون,item_number ItemName itemSize Exclude
+135,,
+136,اشوف الاوردر,show order
+137,العنوان,address
+138,ساندوتش,ItemName
+139,العنوان,address
+140,تغيير البيانات,change update_data
+141,اعرف الاوردر ايه,show order late
+142,الحجم,itemSize
+143,عنواني,address
+144,3,item_number
+145,ايه,late
+146,عطيني قائمة الاوردر,show Menu order
+147,,
+148,,
+149,اشوف منيو,show Menu
+150,عايزة اشوف الطلبات,show show order
+151,اللغة,Language
+152,تفرجيني القائمة,show Menu
+153,5 كبير,item_number itemSize
+154,بدون,Exclude
+155,شوف المنيو,show Menu
+156,,
+157,اضيف,add
+158,,
+159,,
+160,,
+161,رقم,phone_number
+162,عايزة اغير,show change
+163,,
+164,عطيني قائمة الطلبات طلبتها,show Menu order order
+165,الغي عنواني,cancel address
+166,,
+167,امسح العنوان,delete address
+168,تشيكن كبير,ItemName itemSize
+169,,
+170,سلطة كبير بصل,ItemName itemSize Exclude
+171,الانجليزية,Language
+172,احذف العنوان,delete address
+173,الاوردر,order
+174,الاوردر,order
+175,عايزة اعدل عنوان,show edit address
+176,مع,add
+177,احذف,delete
+178,اعرف اسجل بياناتي,show update_data update_data
+179,منيو,Menu
+180,,
+181,,
+182,الفاتورة,invoice
+183,ايه,late
+184,شوف الطلبات,show order
+185,ايه,late
+186,العنوان,address
+187,,
+188,,
+189,اللغة,Language
+190,الغي,cancel
+191,تفرجيني المنيو,show Menu
+192,عايزة,show
+193,,
+194,الاوردر دلوقتي,order late
+195,اغير عنوان,change address
+196,اغير العنوان,change address
+197,اغير,change
+198,,
+199,,
+200,ايه,late
+201,3,item_number
+202,الهابي ميل,ItemName ItemName
+203,,
+204,شوف منيو,show Menu
+205,الطلبات,order
+206,رقم الموبايل,phone_number phone_number
+207,اشوف منيو,show Menu
+208,الغي,cancel
+209,,
+210,,
+211,شوف الكارت,show card
+212,3,item_number
+213,كوردن بلو,ItemName ItemName
+214,تغيرلي اللغة,change Language
+215,اغير رقم,change phone_number
+216,عايزة اضيف عنوان,show add address
+217,,
+218,احدد عنوان البيت,add address address
+219,غير رقم الموبايل,change phone_number phone_number
+220,الاوردر دلوقتي,order late
+221,الاوردرات القديمة,order previous
+222,منيو,Menu
+223,,
+224,احذف رقم الموبايل,delete phone_number phone_number
+225,,
+226,القائمة,Menu
+227,اغير رقم,change phone_number
+228,,
+229,العنوان,address
+230,اضيف,add
+231,3 بيتزا,item_number ItemName
+232,الحجم,itemSize
+233,احذف العنوان,delete address
+234,اشوف منيو بيتزا,show Menu ItemName
+235,,
+236,الهابي ميل,ItemName ItemName
+237,,
+238,طلباتي,order
+239,,
+240,,
+241,الغي,cancel
+242,اروح القائمة,show Menu
+243,الفاتورة,invoice
+244,,
+245,قائمة تغيير البيانات,Menu change update_data
+246,تغيير الجوال,change phone_number
+247,,
+248,المنيو,Menu
+249,الاوردر 3 بيتزا مع كبير,order item_number ItemName add itemSize
+250,,
+251,,
+252,2 ساندوتش كبير مع,item_number ItemName itemSize add
+253,3,item_number
+254,,
+255,تبعتلي منيو,show Menu
+256,,
+257,,
+258,الاوردر,order
+259,العنوان,address
+260,اغير لغة الانجليزية,change Language Language
+261,بصل,Exclude
+262,,
+263,,
+264,الاوردر,order
+265,,
+266,عايزة عنوان,show address
+267,الاوردر لحد,order late
+268,,
+269,عايزة,show
+270,,
+271,,
+272,,
+273,المنيو,Menu
+274,عايزة الحجم الكبير,show itemSize itemSize
+275,اشوف منيو,show Menu
+276,غير اللغة,change Language
+277,,
+278,الطلبات,order
+279,شوف منيو,show Menu
+280,,
+281,وقت,late
+282,,
+283,ايه,late
+284,قبل,previous
+285,,
+286,,
+287,رقم هاتفى للرقم,phone_number phone_number phone_number
+288,,
+289,تبعتلي,show
+290,,
+291,المنيو,Menu
+292,قبل,previous
+293,الغي,cancel
+294,الانجليزية,Language
+295,اضيف عنواني,add address
+296,منيو,Menu
+297,الاوردر,order
+298,رقم الموبايل,phone_number phone_number
+299,رقم,phone_number
+300,الاوردرات طلبتها قبل,order order previous
+301,,
+302,,
+303,الطلبات,order
+304,اعرف الاوردر رقم موصلش,show order phone_number late
+305,الاوردرات السابقة,order previous
+306,شوف منيو,show Menu
+307,اشوف الاوردر,show order
+308,,
+309,,
+310,الفاتورة كام,invoice invoice
+311,عايزة عنوان البيت,show address address
+312,القائمة,Menu
+313,,
+314,,
+315,كبيرة,itemSize
+316,عايزة اشوف الطلبات,show show order
+317,,
+318,العنوان,address
+319,وريني الاوردرات طلبتها قبل,show order order previous
+320,,
+321,3 بيتزا,item_number ItemName
+322,مع,add
+323,لحد,late
+324,رقم,phone_number
+325,,
+326,شوف منيو,show Menu
+327,الاوردر 2 ساندوتش,order item_number ItemName
+328,,
+329,الطلبات,order
+330,عايزة اشوف الطلبات,show show order
+331,شوف قائمة السندوتشات,show Menu ItemName
+332,غير بصل,change Exclude
+333,,
+334,3,item_number
+335,تغيير البيانات,change update_data
+336,اشوف منيو,show Menu
+337,العنوان,address
+338,اشوف الاوردر,show order
+339,شوف الاوردرات السابقة,show order previous
+340,اضيف عنواني,add address
+341,اعدل العنوان,edit address
+342,وريني الاوردرات السابقة,show order previous
+343,تفرجيني القائمة,show Menu
+344,اشوف الاشياء طلبتها,show order order
+345,اعرف,show
+346,عايزة 3 بيتزا,show item_number ItemName
+347,,
+348,,
+349,غير,change
+350,امسح,delete
+351,,
+352,عايزة,show
+353,اغير لغة,change Language
+354,عايزة,show
+355,شيل العنوان,edit address
+356,الاوردر رقم موصلش ايه,order phone_number late late
+357,,
+358,الاوردر,order
+359,,
+360,مع,add
+361,,
+362,عنوان البيت,address address
+363,شوف الطلبات السابقة قبل,show order previous previous
+364,مع,add
+365,ايه,late
+366,الاوردر,order
+367,كبير,itemSize
+368,غير العنوان,change address
+369,عنواني,address
+370,2,item_number
+371,,
+372,عنوان البيت,address address
+373,اوردر,order
+374,تفرجيني الطلبات,show order
+375,الاوردر,order
+376,عطيني 2 ساندوتش مع,show item_number ItemName add
+377,العنوان,address
+378,مع,add
+379,,
+380,اغير عنوان البيت,change address address
+381,,
+382,,
+383,,
+384,,
+385,2,item_number
+386,,
+387,القديمة,previous
+388,ايه,late
+389,تغيير البيانات,change update_data
+390,ساندوتش,ItemName
+391,الاوردر,order
+392,,
+393,الاوردر,order
+394,ساندوتش,ItemName
+395,مع,add
+396,وقت,late
+397,الاوردر,order
+398,اشوف قبل,show previous
+399,,
+400,اشوف منيو البيتزا,show Menu ItemName
+401,الاوردر موصلش,order late
+402,بيتزا,ItemName
+403,الاوردر,order
+404,تفرجيني الكارت,show card
+405,شوف,show
+406,,
+407,اغير,change
+408,,
+409,,
+410,,
+411,مع,add
+412,الطلبات,order
+413,اضيف عنوان,add address
+414,,
+415,3,item_number
+416,الحجم الكبير,itemSize itemSize
+417,,
+418,اشوف الطلبات,show order
+419,مع,add
+420,نظره,show
+421,رقم,phone_number
+422,عايزة اعرف كام,show show invoice
+423,,
+424,تعرضلي منيو,show Menu
+425,اسجل عنوان,update_data address
+426,عنواني,address
+427,مع,add
+428,,
+429,2,item_number
+430,,
+431,الغي العنوان,cancel address
+432,,
+433,غير,change
+434,كبير,itemSize
+435,,
+436,عايزة,show
+437,عايزة,show
+438,واحد,item_number
+439,تعرضلي الاوردر,show order
+440,,
+441,,
+442,اضيف رقم,add phone_number
+443,,
+444,,
+445,مع,add
+446,عايزة اوردر 3,show order item_number
+447,تبعتلي منيو,show Menu
+448,,
+449,,
+450,وقت ايه,late late
+451,الاوردر اد ايه,order late late
+452,اعرضلي المنيو,show Menu
+453,اعرضلي قبل,show previous
+454,احدث العنوان,update_data address
+455,الاوردر,order
+456,,
+457,العنوان,address
+458,2 بيتزا كبير بصل,item_number ItemName itemSize Exclude
+459,,
+460,قبل,previous
+461,اضيف عنوان الاوردر,add address order
+462,عايزة اروح القائمة,show show Menu
+463,,
+464,القائمة,Menu
+465,الاوردر,order
+466,اشوف الطلبات,show order
+467,منيو,Menu
+468,سلطة,ItemName
+469,احذف عنوان,delete address
+470,ميل,ItemName
+471,,
+472,,
+473,تبعتلي الاوردرات القديمة,show order previous
+474,عنواني,address
+475,اضيف رقم,add phone_number
+476,كبير,itemSize
+477,صغيرة,itemSize
+478,,
+479,الاوردر رقم مجاش لحد دلوقتى,order phone_number late late late
+480,رقم,phone_number
+481,تفرجيني طلبتها,show order
+482,عنوان البيت,address address
+483,2,item_number
+484,العنوان,address
+485,,
+486,اشوف,show
+487,الاوردر ايه,order late
+488,تعرضلي,show
+489,عطيني الطلبات,show order
+490,اعدل رقم,edit phone_number
+491,,
+492,غير اللغة الانجليزية,change Language Language
+493,,
+494,تبعتلي الاوردر,show order
+495,3 بيتزا كبير,item_number ItemName itemSize
+496,غير رقم الموبايل,change phone_number phone_number
+497,اعرف الاوردر,show order
+498,الحجم,itemSize
+499,حدثلى رقم للرقم,update_data phone_number phone_number
+500,العنوان,address
+501,تغيرلي اللغة,change Language
+502,,
+503,مع,add
+504,فاضله ايه,late late
+505,الغي,cancel
+506,رقم الجوال,phone_number phone_number
+507,,
+508,الاوردرات,order
+509,اغير لغة,change Language
+510,,
+511,,
+512,الكارت,card
+513,الاوردر للحين,order late
+514,,
+515,,
+516,,
+517,الاوردر,order
+518,اغير العنوان,change address
+519,تغيير البيانات,change update_data
+520,الاوردر,order
+521,عنواني,address
+522,,
+523,الاوردر,order
+524,غير اللغة,change Language
+525,مع,add
+526,شوف الاطباق,show Menu
+527,,
+528,الاوردر,order
+529,3 ساندوتش شيل,item_number ItemName edit
+530,اضيف عنوان,add address
+531,اشوف المنيو,show Menu
+532,الانجليزية,Language
+533,اغير العنوان,change address
+534,عنوان البيت,address address
+535,تبعتلي قائمة,show Menu
+536,,
+537,,
+538,رقم هاتفى,phone_number phone_number
+539,الاوردر 2 بيتزا مع,order item_number ItemName add
+540,اشوف الاوردر,show order
+541,بصل,Exclude
+542,الطلبات السابقة,order previous
+543,العنوان,address
+544,الاوردر,order
+545,احذف,delete
+546,غير رقم الجوال,change phone_number phone_number
+547,,
+548,الطلبات لحد,order late
+549,عنوان البيت,address address
+550,,
+551,اغير,change
+552,اضيف عنوان البيت,add address address
+553,ايه,late
+554,البيانات,update_data
+555,عنوان,address
+556,,
+557,,
+558,منيو بيتزا,Menu ItemName
+559,,
+560,,
+561,عايزة اشوف منيو,show show Menu
+562,,
+563,تضيفلي تشيكن,add ItemName
+564,تفرجيني قائمة تغيير البيانات,show Menu change update_data
+565,رقم الموبايل,phone_number phone_number
+566,3,item_number
+567,,
+568,الاوردر,order
+569,اعرضلي الطلبات طلبتها,show order order
+570,,
+571,,
+572,اغير لغة,change Language
+573,الكارت,card
+574,الاوردر,order
+575,2 بيتزا,item_number ItemName
+576,عنواني,address
+577,اعرضلي,show
+578,,
+579,اغير اللغة,change Language
+580,,
+581,اللغة,Language
+582,اشوف الطلبات السابقة,show order previous
+583,منيو,Menu
+584,تعرضلي,show
+585,اد ايه,late late
+586,احدث العنوان,update_data address
+587,الموبايل,phone_number
+588,,
+589,3,item_number
+590,وريني الاوردرات طلبتها قبل,show order order previous
+591,,
+592,,
+593,عايزة اعرف اوردر,show show order
+594,,
+595,شوف الطلبات,show order
+596,اشوف,show
+597,الحجم,itemSize
+598,الموبايل,phone_number
+599,الاوردر ايه,order late
+600,تضيفلي رقم موبايلي,add phone_number phone_number
+601,عنوان,address
+602,تبعتلي الاوردر,show order
+603,شوف منيو,show Menu
+604,,
+605,,
+606,فرجيكن عنواني,show address
+607,,
+608,عايزة,show
+609,الاوردر,order
+610,,
+611,تضيفلي 3,add item_number
+612,,
+613,,
+614,,
+615,,
+616,الفاتورة,invoice
+617,عايزة عنوان البيت,show address address
+618,تغيير رقم,change phone_number
+619,اشوف,show
+620,رقم,phone_number
+621,احذف عنواني,delete address
+622,عايزة,show
+623,تبعتلي منيو,show Menu
+624,عايزة اضيف,show add
+625,اشوف الاوردر,show order
+626,الاوردرات السابقة,order previous
+627,امسح عنواني,delete address
+628,عنواني,address
+629,مع,add
+630,اعرضلي اوردر,show order
+631,,
+632,,
+633,,
+634,تابعلي الاوردر,show order
+635,عايزة اسجل عنوان,show update_data address
+636,,
+637,,
+638,اشوف,show
+639,بصل مع,Exclude add
+640,منيو,Menu
+641,,
+642,عايزة عنواني,show address
+643,,
+644,اعرضلي الكارت,show card
+645,,
+646,عايزة,show
+647,,
+648,غير,change
+649,الاوردر ايه,order late
+650,3,item_number
+651,اعرضلي الطلبات,show order
+652,,
+653,قائمة البيانات,Menu update_data
+654,,
+655,,
+656,,
+657,اشوف المنيو,show Menu
+658,تغيرلي رقم موبايلي,change phone_number phone_number
+659,رقم,phone_number
+660,,
+661,,
+662,,
+663,2 بيتزا,item_number ItemName
+664,,
+665,وريني,show
+666,عنواني,address
+667,,
+668,ايه,late
+669,الاوردر,order
+670,,
+671,عايزة اشوف الاوردرات,show show order
+672,,
+673,,
+674,العنوان,address
+675,ايه,late
+676,رقم,phone_number
+677,اعدل,edit
+678,اعرضلي منيو,show Menu
+679,,
+680,,
+681,اضيف عنوان البيت,add address address
+682,منيو,Menu
+683,,
+684,شوف قائمة الطعام,show Menu Menu
+685,,
+686,تطلعنى اوردر,show order
+687,عنوان,address
+688,اضيف,add
+689,,
+690,رقم,phone_number
+691,تغيرلي,change
+692,تفرجيني الاوردر,show order
+693,تغير عنوان,change address
+694,تفرجيني,show
+695,,
+696,القائمة,Menu
+697,,
+698,اضيف عنوان,add address
+699,الطعام,Menu
+700,ايه,late
+701,احذف عنواني,delete address
+702,,
+703,عايزة اعدل رقم,show edit phone_number
+704,,
+705,تفرجيني الكارت,show card
+706,,
+707,اسجل عنوان,update_data address
+708,,
+709,عايزة,show
+710,طلبتها,order
+711,,
+712,عنوان,address
+713,,
+714,الكارت,card
+715,عايزة اضيف,show add
+716,الاوردر,order
+717,قبل,previous
+718,,
+719,ميل,ItemName
+720,الطلبات لحد دلوقتي,order late late
+721,,
+722,اضيف رقم,add phone_number
+723,,
+724,منيو,Menu
+725,مع,add
+726,الطعام,Menu
+727,اسجل عنواني,update_data address
+728,ساندوتش,ItemName
+729,تعرضلي منيو سبكترا,show Menu location
+730,منيو,Menu
+731,,
+732,تغيرلي,change
+733,تعرضلي منيو,show Menu
+734,2 سوبر,item_number ItemName
+735,الحجم,itemSize
+736,عايزة اغير رقم,show change phone_number
+737,,
+738,الاوردر,order
+739,عايزة الفاتورة,show invoice
+740,مع,add
+741,اضيف رقم,add phone_number
+742,المنيو,Menu
+743,,
+744,,
+745,عطيني,show
+746,اغير رقم,change phone_number
+747,,
+748,الاوردر,order
+749,المنيو,Menu
+750,,
+751,عايزة,show
+752,,
+753,2 بيتزا,item_number ItemName
+754,العنوان,address
+755,عايزة اشوف الاوردرات,show show order
+756,,
+757,اسجل عنوان البيت,update_data address address
+758,,
+759,احذف العنوان,delete address
+760,,
+761,الغي,cancel
+762,عايزة دلوقتي,show late
+763,تغيير البيانات,change update_data
+764,احط عنوان,add address
+765,غير رقم الجوال,change phone_number phone_number
+766,عايزة اعرف,show show
+767,رقم موبايلي,phone_number phone_number
+768,اغير بياناتي,change update_data
+769,,
+770,,
+771,غير رقم الجوال,change phone_number phone_number
+772,امسح العنوان,delete address
+773,اشوف الاوردرات القديمة,show order previous
+774,رقم للرقم,phone_number phone_number
+775,2 ميل,item_number ItemName
+776,الطلبات,order
+777,العنوان,address
+778,غير,change
+779,اغير لغة,change Language
+780,تشيكن,ItemName
+781,منيو,Menu
+782,اللغة الانجليزية,Language Language
+783,عايزة احط العنوان,show add address
+784,شوف منيو,show Menu
+785,,
+786,بيتزا كبيرة,ItemName itemSize
+787,,
+788,كبير,itemSize
+789,,
+790,بيتزا,ItemName
+791,,
+792,ايه المنيو,late Menu
+793,كبير,itemSize
+794,,
+795,الغي,cancel
+796,اعرضلي,show
+797,شوف الطلبات طلبتها,show order order
+798,القائمة,Menu
+799,,
+800,الاوردر,order
+801,,
+802,,
+803,,
+804,اسجل عنوان,update_data address
+805,مع,add
+806,,
+807,,
+808,الاوردر,order
+809,تضيفلي رقم موبايلي,add phone_number phone_number
+810,قائمة البيتزا,Menu ItemName
+811,اعرضلي الطلبات,show order
+812,الاوردر,order
+813,,
+814,منيو,Menu
+815,مع,add
+816,,
+817,اشوف الكارت,show card
+818,اعرف الاوردر,show order
+819,2 بيتزا صغيرة مع,item_number ItemName itemSize add
+820,عايزة بيتزا كبير,show ItemName itemSize
+821,عايزة,show
+822,اضيف رقم,add phone_number
+823,المنيو,Menu
+824,,
+825,عايزة احط عنواني,show add address
+826,الطلبات,order
+827,,
+828,امسح,delete
+829,,
+830,الفاتورة,invoice
+831,اعرف الاوردر فاضله ايه,show order late late
+832,مع,add
+833,للرقم,phone_number
+834,عايزة سلطة,show ItemName
+835,,
+836,اشوف المنيو,show Menu
+837,تابعلي الطلبات,show order
+838,,
+839,عايزة,show
+840,,
+841,كام,invoice
+842,,
+843,عايزة اغير العنوان,show change address
+844,,
+845,2 تشيكن,item_number ItemName
+846,قائمة تغيير البيانات,Menu change update_data
+847,,
+848,اضيف,add
+849,قائمة الطلبات السابقة,Menu order previous
+850,شيل العنوان,edit address
+851,,
+852,,
+853,رقم هاتفى للرقم,phone_number phone_number phone_number
+854,,
+855,,
+856,عايزة,show
+857,,
+858,اعرضلي,show
+859,,
+860,,
+861,رقم هاتفى,phone_number phone_number
+862,اعرف,show
+863,اد ايه,late late
+864,المنيو,Menu
+865,الغي,cancel
+866,عنوان,address
+867,اضيف,add
+868,,
+869,طلبتها,order
+870,منيو,Menu
+871,,
+872,احذف العنوان,delete address
+873,عايزة اسجل عنوان,show update_data address
+874,,
+875,عايزة,show
+876,,
+877,عايزة الفاتورة,show invoice
+878,,
+879,,
+880,الغي,cancel
+881,سلطة,ItemName
+882,منيو,Menu
+883,,
+884,,
+885,,
+886,عايزة احدد,show add
+887,2,item_number
+888,تفرجيني منيو,show Menu
+889,رقم موبايلي,phone_number phone_number
+890,,
+891,عايزة عنوان,show address
+892,اغير,change
+893,بيتزا,ItemName
+894,,
+895,,
+896,,
+897,,
+898,عايزة,show
+899,العنوان,address
+900,,
+901,احط رقم,add phone_number
+902,,
+903,,
+904,قائمة الطعام,Menu Menu
+905,وريني قائمة البيتزا,show Menu ItemName
+906,امسح العنوان,delete address
+907,تغيير البيانات,change update_data
+908,شيل,edit
+909,القائمة,Menu
+910,العنوان,address
+911,شوف الكارت,show card
+912,المنيو,Menu
+913,تعرضلي الطلبات طلبتها قبل,show order order previous
+914,عنوان,address
+915,منيو,Menu
+916,القائمة,Menu
+917,اوردر,order
+918,,
+919,3 مع سلطة سيزر,item_number add ItemName ItemName
+920,اعرف,show
+921,,
+922,عايزة,show
+923,تفرجيني المنيو,show Menu
+924,,
+925,طلبتها,order
+926,2 مع كبير,item_number add itemSize
+927,ميل,ItemName
+928,2,item_number
+929,اشوف الطلبات,show order
+930,,
+931,اغير البيت,change address
+932,الفاتورة,invoice
+933,اضيف عنوان,add address
+934,منيو,Menu
+935,تغيرلي عنوان,change address
+936,عنوان البيت,address address
+937,,
+938,,
+939,مع,add
+940,الاوردر,order
+941,امسح عنواني,delete address
+942,ميل,ItemName
+943,الطعام,Menu
+944,الاوردر,order
+945,تضيفلي تشيكن,add ItemName
+946,اروح,show
+947,,
+948,حدثلى رقم للرقم,update_data phone_number phone_number
+949,القديمة,previous
+950,3 تشيكن ميل,item_number ItemName ItemName
+951,تبعتلي قائمة تغيير البيانات,show Menu change update_data
+952,عايزة اوردر 3,show order item_number
+953,شوف ايه,show late
+954,عنوان,address
+955,,
+956,,
+957,عايزة مع,show add
+958,,
+959,العنوان,address
+960,عايزة الاوردر,show order
+961,السندوتشات,ItemName
+962,اغير رقم,change phone_number
+963,,
+964,,
+965,كبيرة,itemSize
+966,منيو,Menu
+967,قديش وقت الاوردر,show late order
+968,,
+969,تغيير,change
+970,دلوقتي,late
+971,اشوف منيو,show Menu
+972,عايزة اغير رقم للرقم,show change phone_number phone_number
+973,تطلعنى,show
+974,رقم هاتفى الجوال للرقم,phone_number phone_number phone_number phone_number
+975,2 بيتزا,item_number ItemName
+976,الاوردر,order
+977,,
+978,الغي العنوان,cancel address
+979,مع,add
+980,الغي تشيكن ميل,cancel ItemName ItemName
+981,,
+982,دلوقتي,late
+983,تفرجيني الكارت,show card
+984,,
+985,اضيف رقم,add phone_number
+986,تفرجيني منيو,show Menu
+987,,
+988,غير رقم الجوال,change phone_number phone_number
+989,اعرف الاوردر لحد,show order late
+990,اغير اللغة,change Language
+991,,
+992,اسجل عنوان,update_data address
+993,,
+994,الاوردر,order
+995,,
+996,,
+997,اشوف منيو,show Menu
+998,,
+999,دلوقتى,late
+1000,,
+1001,,
+1002,عايزة اعدل,show edit
+1003,3,item_number
+1004,عنواني,address
+1005,2 بيتزا,item_number ItemName
+1006,اشوف المنيو,show Menu
+1007,للرقم,phone_number
+1008,,
+1009,عنوان,address
+1010,تغير العنوان,change address
+1011,,
+1012,اسجل عنوان,update_data address
+1013,الاوردر,order
+1014,غير رقم,change phone_number
+1015,,
+1016,الاوردر,order
+1017,قائمة الطعام,Menu Menu
+1018,,
+1019,الاوردر,order
+1020,مع,add
+1021,تغيرلي عنوان البيت عنوان,change address address address
+1022,الغي عنواني,cancel address
+1023,تبعتلي المنيو,show Menu
+1024,اشوف منيو,show Menu
+1025,كبير,itemSize
+1026,عايزة اضيف عنوان,show add address
+1027,2,item_number
+1028,الاوردر,order
+1029,اغير رقم للرقم,change phone_number phone_number
+1030,اشوف,show
+1031,عايزة الاوردرات السابقة,show order previous
+1032,تفرجيني القائمة,show Menu
+1033,,
+1034,,
+1035,,
+1036,اشوف منيو,show Menu
+1037,3,item_number
+1038,اسجل العنوان,update_data address
+1039,اغير رقم,change phone_number
+1040,,
+1041,اشوف الاوردرات القديمة,show order previous
+1042,شوف,show
+1043,تفرجيني,show
+1044,غير لغة,change Language
+1045,,
+1046,,
+1047,عايزة اضيف العنوان,show add address
+1048,تفرجيني المنيو,show Menu
+1049,غير رقم,change phone_number
+1050,احط العنوان,add address
+1051,الطلبات,order
+1052,عايزة احدد عنواني,show add address
+1053,,
+1054,,
+1055,,
+1056,عطيني المنيو,show Menu
+1057,,
+1058,امسح,delete
+1059,الغي,cancel
+1060,,
+1061,ايه,late
+1062,عايزة اضيف العنوان,show add address
+1063,مع,add
+1064,مع,add
+1065,اللغة,Language
+1066,عنوان,address
+1067,العنوان,address
+1068,,
+1069,,
+1070,مع,add
+1071,اضيف,add
+1072,,
+1073,اشوف الطلبات السابقة,show order previous
+1074,,
+1075,الطلبات,order
+1076,,
+1077,,
+1078,ايه,late
+1079,اضيف 3 تشيكن مع الاوردر,add item_number ItemName add order
+1080,2 كبير,item_number itemSize
+1081,تفرجيني منيو,show Menu
+1082,,
+1083,,
+1084,منيو,Menu
+1085,,
+1086,,
+1087,رقم البيت,phone_number address
+1088,تفرجيني قائمة الطلبات السابقة,show Menu order previous
+1089,مع,add
+1090,,
+1091,,
+1092,بيتزا,ItemName
+1093,الاوردر,order
+1094,اشوف الاوردر,show order
+1095,اضيف,add
+1096,3 ساندوتش,item_number ItemName
+1097,شوف المنيو,show Menu
+1098,القائمة,Menu
+1099,الغي العنوان,cancel address
+1100,الاوردر,order
+1101,الاوردر كام,order invoice
+1102,شوف الكارت,show card
+1103,رقم,phone_number
+1104,,
+1105,الاوردر,order
+1106,,
+1107,اعرضلي قائمة,show Menu
+1108,غير العنوان,change address
+1109,غير عنوان,change address
+1110,الغي عنواني,cancel address
+1111,تغيير رقم الجوال للرقم,change phone_number phone_number phone_number
+1112,اغير,change
+1113,,
+1114,تغير رقم,change phone_number
+1115,عنوان,address
+1116,تابعلي الاوردر,show order
+1117,اللغة,Language
+1118,عايزة اعرف الاوردر وقت اد ايه,show show order late late late
+1119,,
+1120,عنوان,address
+1121,تابعلي الاوردر,show order
+1122,اشوف منيو,show Menu
+1123,تغيرلي عنوان البيت,change address address
+1124,اعرضلي منيو البيتزا بيتزا,show Menu ItemName ItemName
+1125,الاوردر,order
+1126,موصلش,late
+1127,,
+1128,,
+1129,عنوان,address
+1130,عايزة اسجل عنوان,show update_data address
+1131,مع,add
+1132,,
+1133,المنيو,Menu
+1134,اعرف الطلبات,show order
+1135,اسجل العنوان,update_data address
+1136,الاوردر,order
+1137,اغير رقم للرقم,change phone_number phone_number
+1138,,
+1139,ايه,late
+1140,اشوف الكارت,show card
+1141,,
+1142,غير رقم الموبايل,change phone_number phone_number
+1143,اشوف,show
+1144,الاوردر,order
+1145,,
+1146,شوف الاوردرات,show order
+1147,تعرضلي,show
+1148,الطلبات,order
+1149,,
+1150,,
+1151,,
+1152,,
+1153,تابعلي الطلبات,show order
+1154,اعرضلي,show
+1155,رقم ماوصل,phone_number late
+1156,,
+1157,شوف الاوردر,show order
+1158,اشوف اوردراتي,show order
+1159,منيو,Menu
+1160,عايزة,show
+1161,اشوف المنيو,show Menu
+1162,مع,add
+1163,تغيير البيانات,change update_data
+1164,البيانات,update_data
+1165,رقم,phone_number
+1166,الاوردر,order
+1167,,
+1168,الفاتورة,invoice
+1169,الفاتورة,invoice
+1170,مع,add
+1171,اشوف منيو,show Menu
+1172,,
+1173,الاوردر,order
+1174,منيو الاطباق,Menu Menu
+1175,,
+1176,لحد,late
+1177,عايزة احدث البيانات,show update_data update_data
+1178,,
+1179,السابقة,previous
+1180,,
+1181,المنيو,Menu
+1182,العنوان,address
+1183,اشوف منيو,show Menu
+1184,قائمة الطعام,Menu Menu
+1185,تفرجيني الكارت,show card
+1186,العنوان,address
+1187,,
+1188,الطلبات,order
+1189,اللغة,Language
+1190,دلوقتي,late
+1191,الاوردر,order
+1192,اغير رقم موبايلي,change phone_number phone_number
+1193,,
+1194,قائمة تغيير البيانات,Menu change update_data
+1195,اوردر بيتزا,order ItemName
+1196,,
+1197,,
+1198,,
+1199,العنوان,address
+1200,,
+1201,2 بيتزا,item_number ItemName
+1202,,
+1203,عايزة,show
+1204,اعرف الاوردر فاضله ايه,show order late late
+1205,تغيرلي اللغة,change Language
+1206,سلطة كبير,ItemName itemSize
+1207,,
+1208,عايزة,show
+1209,عنوان,address
+1210,الاوردر,order
+1211,,
+1212,الاوردر رقم,order phone_number
+1213,شوف المنيو,show Menu
+1214,ايه قائمة الطعام,late Menu Menu
+1215,الاوردر,order
+1216,تفرجيني القائمة,show Menu
+1217,اللغة,Language
+1218,الفاتورة,invoice
+1219,هاخد كبير,show itemSize
+1220,ساندوتش,ItemName
+1221,,
+1222,عنوان البيت,address address
+1223,ايه,late
+1224,تضيفلي عنوان,add address
+1225,مع,add
+1226,,
+1227,وريني قائمة الطعام,show Menu Menu
+1228,,
+1229,تشيكن مع,ItemName add
+1230,الاوردرات السابقة,order previous
+1231,عنواني,address
+1232,,
+1233,,
+1234,,
+1235,اوردر رقم,order phone_number
+1236,كبير,itemSize
+1237,,
+1238,,
+1239,الغي,cancel
+1240,غير رقم الجوال,change phone_number phone_number
+1241,عنوان,address
+1242,منيو,Menu
+1243,,
+1244,منيو,Menu
+1245,,
+1246,السابقة,previous
+1247,عنوان,address
+1248,,
+1249,,
+1250,رقم,phone_number
+1251,البيانات,update_data
+1252,الاوردرات السابقة,order previous
+1253,,
+1254,,
+1255,البيانات,update_data
+1256,مع,add
+1257,,
+1258,عنواني,address
+1259,شوف الكارت,show card
+1260,اعرف الاوردر,show order
+1261,,
+1262,,
+1263,,
+1264,اعدل عنوان,edit address
+1265,اعرضلي,show
+1266,كام,invoice
+1267,عايزة,show
+1268,,
+1269,,
+1270,,
+1271,مع,add
+1272,الاوردرات السابقة,order previous
+1273,3 بيتزا,item_number ItemName
+1274,,
+1275,عايزة اضيف عنوان البيت,show add address address
+1276,اضيف رقم الجوال,add phone_number phone_number
+1277,,
+1278,,
+1279,اوردر 3 بيتزا مع,order item_number ItemName add
+1280,امسح,delete
+1281,الاوردر,order
+1282,,
+1283,الفاتورة,invoice
+1284,,
+1285,ساندوتش 2,ItemName item_number
+1286,اشوف المنيو,show Menu
+1287,اشوف الكارت,show card
+1288,,
+1289,شوف,show
+1290,اغير رقم للرقم,change phone_number phone_number
+1291,,
+1292,,
+1293,تغيرلي للرقم,change phone_number
+1294,الاوردر,order
+1295,,
+1296,,
+1297,,
+1298,شوف المنيو,show Menu
+1299,,
+1300,,
+1301,,
+1302,,
+1303,اعرف وقت اد ايه الاوردر,show late late late order
+1304,وريني الطلبات,show order
+1305,,
+1306,رقم,phone_number
+1307,الاوردر,order
+1308,2 تشيكن سوبريم بصل,item_number ItemName ItemName Exclude
+1309,,
+1310,,
+1311,3 بيتزا,item_number ItemName
+1312,عنوان البيت,address address
+1313,منيو,Menu
+1314,عايزة اعدل رقم موبايلي,show edit phone_number phone_number
+1315,,
+1316,عايزة عنواني,show address
+1317,,
+1318,2 مع,item_number add
+1319,كبير,itemSize
+1320,قديش وقت,show late
+1321,,
+1322,,
+1323,القائمة,Menu
+1324,الطلبات قبل,order previous
+1325,رقم الموبايل,phone_number phone_number
+1326,الاوردر,order
+1327,العنوان,address
+1328,اعدل العنوان,edit address
+1329,,
+1330,,
+1331,اشوف,show
+1332,الطلبات,order
+1333,اغير بياناتي,change update_data
+1334,قديش وقت,show late
+1335,شوف الكارت,show card
+1336,احط عنواني,add address
+1337,,
+1338,عايزة,show
+1339,وقت,late
+1340,غير رقم الموبايل,change phone_number phone_number
+1341,الاوردر وقت ايه,order late late
+1342,,
+1343,,
+1344,اشوف,show
+1345,احدد عنوان البيت,add address address
+1346,غير,change
+1347,2,item_number
+1348,,
+1349,المنيو,Menu
+1350,عايزة اغير ايه,show change late
+1351,2,item_number
+1352,,
+1353,تشيكن سوبريم بيتزا,ItemName ItemName ItemName
+1354,القائمة,Menu
+1355,اغير,change
+1356,رقم,phone_number
+1357,الاوردر 3,order item_number
+1358,,
+1359,بدون,Exclude
+1360,,
+1361,عنوان البيت,address address
+1362,اعرف,show
+1363,عايزة اشوف الاوردرات,show show order
+1364,,
+1365,كبير,itemSize
+1366,الاوردر,order
+1367,قديش,show
+1368,قائمة الطعام,Menu Menu
+1369,,
+1370,,
+1371,طلبتها,order
+1372,,
+1373,,
+1374,,
+1375,عايزة اعدل العنوان,show edit address
+1376,تفرجيني,show
+1377,,
+1378,مع,add
+1379,تغيير رقم الموبايل,change phone_number phone_number
+1380,بيتزا,ItemName
+1381,رقم,phone_number
+1382,الاوردر,order
+1383,الاوردر,order
+1384,غير عنوان,change address
+1385,الاوردر,order
+1386,الاوردر,order
+1387,ايه,late
+1388,رقم,phone_number
+1389,الاوردر 2 بيتزا مع,order item_number ItemName add
+1390,الغي,cancel
+1391,اضيف,add
+1392,تفرجيني الطعام,show Menu
+1393,,
+1394,,
+1395,حسابى,invoice
+1396,عطيني القائمة,show Menu
+1397,بيتزا بصل,ItemName Exclude
+1398,,
+1399,رقم للرقم,phone_number phone_number
+1400,احذف العنوان,delete address
+1401,,
+1402,تبعتلي قائمة تغيير البيانات,show Menu change update_data
+1403,,
+1404,احذف,delete
+1405,,
+1406,للرقم,phone_number
+1407,مع,add
+1408,,
+1409,الاوردر,order
+1410,عنوان البيت,address address
+1411,الغي عنواني,cancel address
+1412,قائمة الطعام,Menu Menu
+1413,اللغة,Language
+1414,,
+1415,عنوان البيت,address address
+1416,مع,add
+1417,,
+1418,احط العنوان,add address
+1419,2 بيتزا,item_number ItemName
+1420,اشوف الطلبات,show order
+1421,,
+1422,اعرف الاوردر فاضله اد ايه,show order late late late
+1423,3 سلطة مع,item_number ItemName add
+1424,,
+1425,اشوف المنيو,show Menu
+1426,اغير عنوان البيت,change address address
+1427,تعرضلي,show
+1428,شوف قائمة,show Menu
+1429,,
+1430,غير رقم الجوال,change phone_number phone_number
+1431,قبل,previous
+1432,,
+1433,,
+1434,,
+1435,,
+1436,,
+1437,عايزة احط عنوان البيت,show add address address
+1438,شوف الكارت,show card
+1439,الاوردر ايه,order late
+1440,اعرف العنوان,show address
+1441,اشوف الاوردرات,show order
+1442,,
+1443,5 كبير,item_number itemSize
+1444,,
+1445,,
+1446,اشوف الاوردرات قبل,show order previous
+1447,البيانات,update_data
+1448,,
+1449,3 ميل تشيكن,item_number ItemName ItemName
+1450,,
+1451,تشيكن,ItemName
+1452,عنوان,address
+1453,العنوان,address
+1454,,
+1455,لغة,Language
+1456,العنوان,address
+1457,تطلعنى,show
+1458,غير,change
+1459,الاوردر ايه,order late
+1460,وريني الطلبات القديمة,show order previous
+1461,,
+1462,,
+1463,وقت الاوردر,late order
+1464,تعرضلي الكارت,show card
+1465,,
+1466,المنيو,Menu
+1467,اعرف,show
+1468,عايزة احدد عنوان,show add address
+1469,الغي,cancel
+1470,,
+1471,مع,add
+1472,بيتزا,ItemName
+1473,عنواني,address
+1474,اوردر 5 تشيكن مع,order item_number ItemName add
+1475,المنيو,Menu
+1476,شوف,show
+1477,عايزة,show
+1478,,
+1479,قائمة تغيير البيانات,Menu change update_data
+1480,,
+1481,,
+1482,الاوردر,order
+1483,اشوف قبل,show previous
+1484,لحد,late
+1485,سوبر سوبريم مع,ItemName ItemName add
+1486,تغيرلي رقم,change phone_number
+1487,سلطة,ItemName
+1488,,
+1489,تغيير البيانات,change update_data
+1490,الطلبات,order
+1491,احذف عنوان البيت,delete address address
+1492,تغيرلي لغة,change Language
+1493,اللغة,Language
+1494,احدث عنواني,update_data address
+1495,عايزة امسح عنواني,show delete address
+1496,ايه,late
+1497,عنوان البيت,address address
+1498,اغير عنوان,change address
+1499,سلطة,ItemName
+1500,,
+1501,,
+1502,الطلبات,order
+1503,احذف العنوان,delete address
+1504,,
+1505,القائمة,Menu
+1506,,
+1507,,
+1508,الطلبات طلبتها قبل,order order previous
+1509,عايزة اعرف وقت اد ايه,show show late late late
+1510,,
+1511,اعرف,show
+1512,,
+1513,غير رقم الموبايل,change phone_number phone_number
+1514,منيو,Menu
+1515,عنوان البيت,address address
+1516,الاوردرات طلبتها,order order
+1517,,
+1518,,
+1519,,
+1520,,
+1521,عنوان,address
+1522,,
+1523,,
+1524,,
+1525,كام,invoice
+1526,احط عنوان البيت,add address address
+1527,,
+1528,عايزة اشوف الاوردرات القديمة,show show order previous
+1529,الغي العنوان,cancel address
+1530,الطلبات ايه,order late
+1531,الاوردر,order
+1532,عايزة,show
+1533,الطلبات,order
+1534,الاوردر ماوصل,order late
+1535,اشوف السندوتشات,show ItemName
+1536,الاوردر,order
+1537,عايزة اغير بياناتي,show change update_data
+1538,عنوان,address
+1539,,
+1540,,
+1541,,
+1542,,
+1543,اللغة,Language
+1544,بيتزا,ItemName
+1545,عنوان,address
+1546,,
+1547,دلوقتي عايزة اغير رقم الموبايل ايه,late show change phone_number phone_number late
+1548,,
+1549,القائمة,Menu
+1550,قائمة,Menu
+1551,,
+1552,اعرضلي الاوردرات,show order
+1553,شوف الاوردر,show order
+1554,,
+1555,5,item_number
+1556,3,item_number
+1557,عنوان,address
+1558,,
+1559,2 كبير,item_number itemSize
+1560,الطلبات,order
+1561,عايزة,show
+1562,الطلبات,order
+1563,,
+1564,تفرجيني قبل,show previous
+1565,ايه الطلبات,late order
+1566,3,item_number
+1567,عنوان البيت,address address
+1568,تفرجيني منيو,show Menu
+1569,شوف المنيو,show Menu
+1570,المنيو,Menu
+1571,احذف الاوردر,delete order
+1572,بيتزا كبيرة,ItemName itemSize
+1573,,
+1574,,
+1575,الطلبات,order
+1576,الحجم,itemSize
+1577,عايزة اغير رقم موبايلي,show change phone_number phone_number
+1578,عنوان البيت,address address
+1579,اسجل عنوان البيت,update_data address address
+1580,,
+1581,اعرضلي,show
+1582,تبعتلي قائمة,show Menu
+1583,كبير مع,itemSize add
+1584,عايزة اسجل عنوان,show update_data address
+1585,,
+1586,وريني منيو,show Menu
+1587,عايزة اغير رقم,show change phone_number
+1588,اتنين غير,item_number change
+1589,عايزة اعدل رقم الموبايل,show edit phone_number phone_number
+1590,اشوف الاوردر فاضله ايه,show order late late
+1591,الطلبات السابقة,order previous
+1592,الطعام,Menu
+1593,رقم للرقم,phone_number phone_number
+1594,ايه,late
+1595,,
+1596,,
+1597,رقم,phone_number
+1598,,
+1599,الاوردر,order
+1600,تعرضلي,show
+1601,احدد عنوان,add address
+1602,,
+1603,الاوردر,order
+1604,,
+1605,عايزة اشوف الطلبات السابقة,show show order previous
+1606,اعرضلي المنيو,show Menu
+1607,عايزة الغي عنوان البيت,show cancel address address
+1608,,
+1609,شوف,show
+1610,الطلبات,order
+1611,,
+1612,,
+1613,,
+1614,شوف قبل,show previous
+1615,العنوان,address
+1616,,
+1617,,
+1618,مع,add
+1619,,
+1620,العنوان,address
+1621,اعرضلي طلباتي,show order
+1622,الاوردر,order
+1623,تبعتلي,show
+1624,اشوف قائمة الطلبات,show Menu order
+1625,اوردر,order
+1626,,
+1627,,
+1628,,
+1629,3 بيتزا مع بصل,item_number ItemName add Exclude
+1630,,
+1631,2 بيتزا كبير,item_number ItemName itemSize
+1632,اشوف قبل,show previous
+1633,شوف منيو,show Menu
+1634,شوف المنيو,show Menu
+1635,اعرضلي,show
+1636,مع,add
+1637,رقم,phone_number
+1638,,
+1639,مع,add
+1640,رقم الجوال,phone_number phone_number
+1641,حذف,delete
+1642,3,item_number
+1643,اشوف,show
+1644,شوف,show
+1645,اشوف طلباتي,show order
+1646,الحجم كبير,itemSize itemSize
+1647,,
+1648,الفاتورة,invoice
+1649,رقم الجوال للرقم,phone_number phone_number phone_number
+1650,ايه,late
+1651,3,item_number
+1652,,
+1653,اضيف عنوان,add address
+1654,شوف الاشياء طلبتها,show order order
+1655,الاوردر,order
+1656,شوف,show
+1657,الاوردر,order
+1658,,
+1659,2 بيتزا بصل مع,item_number ItemName Exclude add
+1660,,
+1661,,
+1662,اشوف,show
+1663,عنوان,address
+1664,دلوقتي,late
+1665,,
+1666,اغير العنوان,change address
+1667,رقم الجوال,phone_number phone_number
+1668,رقم 2,phone_number item_number
+1669,,
+1670,ايه دلوقتي,late late
+1671,,
+1672,الله,Gbu
+1673,,
+1674,رقم الموبايل,phone_number phone_number
+1675,عايزة رقم,show phone_number
+1676,3,item_number
+1677,,
+1678,,
+1679,,
+1680,عايزة الاوردرات,show order
+1681,,
+1682,اغير رقم هاتفى,change phone_number phone_number
+1683,اشوف البيتزا,show ItemName
+1684,,
+1685,قائمة تغيير البيانات,Menu change update_data
+1686,,
+1687,,
+1688,اشوف قائمة الطعام,show Menu Menu
+1689,اشوف,show
+1690,عايزة اشوف منيو,show show Menu
+1691,اشوف الاوردرات,show order
+1692,رقم الجوال,phone_number phone_number
+1693,,
+1694,,
+1695,هاخد 2 بيتزا,show item_number ItemName
+1696,,
+1697,اشوف الطلبات,show order
+1698,,
+1699,,
+1700,,
+1701,,
+1702,عنواني,address
+1703,,
+1704,,
+1705,الاوردرات السابقة,order previous
+1706,تغير عنواني,change address
+1707,,
+1708,عايزة اعرف,show show
+1709,,
+1710,,
+1711,عنوان,address
+1712,,
+1713,عايزة اضيف عنوان,show add address
+1714,اشوف الاوردر,show order
+1715,اغير رقم,change phone_number
+1716,اشوف الاوردر,show order
+1717,العنوان,address
+1718,اروح قائمة تغيير البيانات,show Menu change update_data
+1719,عايزة تشيكن ساندوتش مع,show ItemName ItemName add
+1720,,
+1721,ساندوتش,ItemName
+1722,منيو,Menu
+1723,اعرضلي القائمة,show Menu
+1724,اوردر,order
+1725,رقم,phone_number
+1726,وقت ايه,late late
+1727,الطلبات السابقة,order previous
+1728,تغير رقم للرقم,change phone_number phone_number
+1729,اغير رقم الموبايل,change phone_number phone_number
+1730,,
+1731,2 بيتزا,item_number ItemName
+1732,,
+1733,العنوان,address
+1734,اشوف ايه,show late
+1735,,
+1736,غير العنوان,change address
+1737,,
+1738,عايزة اغير لغة,show change Language
+1739,بيتزا,ItemName
+1740,اضيف الهابي ميل,add ItemName ItemName
+1741,اعرضلي منيو,show Menu
+1742,الاوردر,order
+1743,الاطباق,Menu
+1744,,
+1745,,
+1746,اعرضلي الاوردر,show order
+1747,اغير رقم الجوال,change phone_number phone_number
+1748,تغير,change
+1749,,
+1750,,
+1751,وريني المنيو,show Menu
+1752,غير بياناتي,change update_data
+1753,,
+1754,غير اللغة,change Language
+1755,,
+1756,الاوردر,order
+1757,شوف البيتزا,show ItemName
+1758,اغير لغة,change Language
+1759,اعدل عنوان,edit address
+1760,منيو الاطباق,Menu Menu
+1761,عنوان البيت,address address
+1762,2 مع كبير,item_number add itemSize
+1763,عايزة اشوف الاوردر,show show order
+1764,اشوف,show
+1765,تشيكن سوبريم بيتزا غير,ItemName ItemName ItemName change
+1766,تشيكن,ItemName
+1767,الاوردر 3,order item_number
+1768,اعدل العنوان,edit address
+1769,,
+1770,ايه,late
+1771,احذف,delete
+1772,عايزة امسح عنواني,show delete address
+1773,,
+1774,اشوف حسابى,show invoice
+1775,,
+1776,,
+1777,,
+1778,,
+1779,احدث رقم موبايلي,update_data phone_number phone_number
+1780,اشوف اوردراتي السابقة,show order previous
+1781,,
+1782,عايزة اعرف كام الفاتورة,show show invoice invoice
+1783,الغي,cancel
+1784,اشوف,show
+1785,قائمة المنيو,Menu Menu
+1786,المنيو,Menu
+1787,رقم فاضله ايه,phone_number late late
+1788,,
+1789,عنوان البيت,address address
+1790,,
+1791,,
+1792,السندوتشات,ItemName
+1793,عايزة العنوان,show address
+1794,,
+1795,,
+1796,,
+1797,,
+1798,اشوف المنيو,show Menu
+1799,رقم,phone_number
+1800,الطعام,Menu
+1801,تبعتلي القائمة,show Menu
+1802,,
+1803,الاوردر ايه,order late
+1804,,
+1805,بيتزا صغيرة,ItemName itemSize
+1806,,
+1807,,
+1808,,
+1809,الاوردرات السابقة,order previous
+1810,كام,invoice
+1811,العنوان,address
+1812,مع واحد,add item_number
+1813,,
+1814,وريني الطعام,show Menu
+1815,,
+1816,رقم,phone_number
+1817,,
+1818,غير رقم الموبايل,change phone_number phone_number
+1819,الاوردر 2 ساندوتش مع,order item_number ItemName add
+1820,الاشياء طلبتها الاوردر,order order order
+1821,رقم للرقم,phone_number phone_number
+1822,اسجل عنوان,update_data address
+1823,وريني المنيو,show Menu
+1824,,
+1825,تبعتلي,show
+1826,,
+1827,,
+1828,عنواني,address
+1829,عنوان,address
+1830,اعدل العنوان,edit address
+1831,اشوف الطلبات السابقة,show order previous
+1832,الحجم الكبير,itemSize itemSize
+1833,الطعام,Menu
+1834,اشوف القديمة,show previous
+1835,اعدل عنوان البيت,edit address address
+1836,,
+1837,,
+1838,تفرجيني قائمة الطعام,show Menu Menu
+1839,تعرضلي منيو,show Menu
+1840,احط رقم,add phone_number
+1841,اشوف الكارت,show card
+1842,2 بيتزا,item_number ItemName
+1843,,
+1844,عايزة اسجل عنواني,show update_data address
+1845,اللغة,Language
+1846,عنوان البيت,address address
+1847,اعرضلي الكارت,show card
+1848,,
+1849,اللغة,Language
+1850,الفاتورة,invoice
+1851,تضيفلي,add
+1852,ايه,late
+1853,,
+1854,,
+1855,,
+1856,عايزة احدث عنواني,show update_data address
+1857,,
+1858,,
+1859,كبيرة,itemSize
+1860,,
+1861,اعرضلي الاوردر,show order
+1862,اضيف عنواني,add address
+1863,اغير رقم,change phone_number
+1864,الاوردر,order
+1865,الاوردر,order
+1866,,
+1867,تشيكن ميل,ItemName ItemName
+1868,الطلبات,order
+1869,عنوان البيت,address address
+1870,امسح العنوان,delete address
+1871,,
+1872,,
+1873,اضيف عنوان البيت,add address address
+1874,منيو السندوتشات,Menu ItemName
+1875,,
+1876,شوف,show
+1877,,
+1878,البيت,address
+1879,,
+1880,تشيكن,ItemName
+1881,رقم,phone_number
+1882,,
+1883,,
+1884,,
+1885,,
+1886,العنوان,address
+1887,,
+1888,,
+1889,شوف الطلبات القديمة قبل,show order previous previous
+1890,عنوان البيت,address address
+1891,تفرجيني منيو,show Menu
+1892,,
+1893,,
+1894,,
+1895,اشوف منيو,show Menu
+1896,الغي العنوان,cancel address
+1897,مع,add
+1898,,
+1899,قائمة تغيير البيانات,Menu change update_data
+1900,اشوف الاوردرات القديمة,show order previous
+1901,اعرف قديش وقت الاوردر,show show late order
+1902,اغير اللغة,change Language
+1903,,
+1904,تغير عنواني,change address
+1905,احذف العنوان,delete address
+1906,3,item_number
+1907,اسجل عنوان,update_data address
+1908,تفرجيني الاوردر,show order
+1909,العنوان,address
+1910,حذف,delete
+1911,اضيف رقم,add phone_number
+1912,رقم,phone_number
+1913,اشوف,show
+1914,,
+1915,2,item_number
+1916,اشوف اوردر,show order
+1917,اعرف,show
+1918,القائمة البيانات,Menu update_data
+1919,عايزة احذف عنوان البيت,show delete address address
+1920,,
+1921,عايزة,show
+1922,غير,change
+1923,,
+1924,غير لغة,change Language
+1925,امسح,delete
+1926,تبعتلي منيو,show Menu
+1927,اشوف,show
+1928,احط عنوان البيت,add address address
+1929,,
+1930,,
+1931,اضيف رقم غير,add phone_number change
+1932,,
+1933,عايزة,show
+1934,اروح,show
+1935,,
+1936,,
+1937,عايزة اشوف الاوردرات,show show order
+1938,,
+1939,رقم,phone_number
+1940,هاخد,show
+1941,,
+1942,,
+1943,المنيو,Menu
+1944,عايزة عنوان البيت,show address address
+1945,عنوان,address
+1946,عطيني الاوردرات طلبتها قبل,show order order previous
+1947,عنواني,address
+1948,,
+1949,شوف الطلبات السابقة,show order previous
+1950,اشوف منيو,show Menu
+1951,ساندوتش,ItemName
+1952,رقم موبايلي,phone_number phone_number
+1953,احدث رقم موبايلي,update_data phone_number phone_number
+1954,2 سلطة,item_number ItemName
+1955,اعرضلي الاوردرات طلبتها قبل,show order order previous
+1956,اشوف طلبتها,show order
+1957,كام,invoice
+1958,الحجم الكبير,itemSize itemSize
+1959,,
+1960,,
+1961,,
+1962,اروح تغيير البيانات,show change update_data
+1963,,
+1964,اعرف الفاتورة,show invoice
+1965,ايه,late
+1966,امسح العنوان,delete address
+1967,تغيرلي رقم,change phone_number
+1968,الحجم الكبير,itemSize itemSize
+1969,,
+1970,الاوردر,order
+1971,ايه,late
+1972,اغير رقم,change phone_number
+1973,عايزة دلوقتي,show late
+1974,اعرضلي,show
+1975,كام,invoice
+1976,2 تشيكن,item_number ItemName
+1977,عطيني الكارت,show card
+1978,تشيكن,ItemName
+1979,,
+1980,الاوردر,order
+1981,,
+1982,,
+1983,الاوردر,order
+1984,اشوف,show
+1985,,
+1986,منيو,Menu
+1987,,
+1988,,
+1989,,
+1990,الاوردر رقم,order phone_number
+1991,اشوف,show
+1992,الاوردرات,order
+1993,اعرف الاوردر,show order
+1994,,
+1995,اعرضلي,show
+1996,اشوف الاوردر,show order
+1997,اوردر,order
+1998,الغي العنوان,cancel address
+1999,تضيفلي,add
+2000,,
+2001,شوف الاوردرات,show order
+2002,شوف الطعام,show Menu
+2003,اشوف الاوردرات طلبتها قبل,show order order previous
+2004,اسجل العنوان,update_data address
+2005,بيتزا بدون بصل,ItemName Exclude Exclude
+2006,,
+2007,,
+2008,كبير,itemSize
+2009,,
+2010,اروح,show
+2011,الله,Gbu
+2012,,
+2013,رقم,phone_number
+2014,,
+2015,عايزة اضيف عنواني,show add address
+2016,,
+2017,عايزة اسجل عنوان البيت,show update_data address address
+2018,,
+2019,,
+2020,,
+2021,عنوان,address
+2022,الاوردر,order
+2023,عطيني المنيو,show Menu
+2024,عنوان,address
+2025,,
+2026,الاوردر,order
+2027,عايزة,show
+2028,الغي عنوان البيت,cancel address address
+2029,,
+2030,,
+2031,اشوف طلباتي,show order
+2032,,
+2033,عنوان البيت,address address
+2034,عايزة اعدل العنوان,show edit address
+2035,شوف,show
+2036,اغير عنوان,change address
+2037,الاوردر,order
+2038,,
+2039,الغي,cancel
+2040,العنوان,address
+2041,,
+2042,للرقم,phone_number
+2043,السابقة,previous
+2044,اعرضلي بيتزا,show ItemName
+2045,عايزة رقم موبايلي,show phone_number phone_number
+2046,اضيف عنواني,add address
+2047,,
+2048,الاوردر,order
+2049,اشوف الطلبات السابقة,show order previous
+2050,للحين,late
+2051,شوف الكارت,show card
+2052,,
+2053,قائمة,Menu
+2054,تابعلي الاوردر,show order
+2055,اوردر,order
+2056,الاوردر,order
+2057,,
+2058,تبعتلي,show
+2059,مع,add
+2060,,
+2061,,
+2062,,
+2063,,
+2064,للحين,late
+2065,الاوردرات السابقة,order previous
+2066,,
+2067,2,item_number
+2068,وريني منيو,show Menu
+2069,شوف الطلبات,show order
+2070,نظره,show
+2071,,
+2072,عايزة مع,show add
+2073,,
+2074,شوف الاوردرات السابقة,show order previous
+2075,اشوف المنيو,show Menu
+2076,,
+2077,مع,add
+2078,احط رقم,add phone_number
+2079,اللغة,Language
+2080,رقم,phone_number
+2081,,
+2082,,
+2083,غير عنوان البيت,change address address
+2084,امسح العنوان,delete address
+2085,شوف الاوردرات طلبتها قبل,show order order previous
+2086,رقم,phone_number
+2087,,
+2088,,
+2089,,
+2090,اشوف الاوردرات القديمة,show order previous
+2091,,
+2092,,
+2093,اشوف طلبتها,show order
+2094,العنوان,address
+2095,فاضله ايه,late late
+2096,تشيكن مع الاوردر,ItemName add order
+2097,منيو الاطباق,Menu Menu
+2098,,
+2099,,
+2100,الغي عنواني,cancel address
+2101,وقت,late
+2102,اعدل رقم,edit phone_number
+2103,,
+2104,,
+2105,اشوف طلبتها,show order
+2106,,
+2107,,
+2108,اعرضلي الاوردر,show order
+2109,,
+2110,عايزة اغير رقم,show change phone_number
+2111,اغير بياناتي,change update_data
+2112,,
+2113,,
+2114,,
+2115,تبديل رقم,edit phone_number
+2116,مع,add
+2117,,
+2118,,
+2119,رقم,phone_number
+2120,الاوردر ايه,order late
+2121,,
+2122,تبعتلي الاوردر,show order
+2123,احذف,delete
+2124,الاوردرات السابقة,order previous
+2125,الاوردر,order
+2126,,
+2127,وريني قائمة الطلبات,show Menu order
+2128,وريني ايه,show late
+2129,عايزة القائمة,show Menu
+2130,رقم,phone_number
+2131,رقم,phone_number
+2132,,
+2133,الاوردرات السابقة,order previous
+2134,,
+2135,,
+2136,اوردر,order
+2137,رقم,phone_number
+2138,,
+2139,تفرجيني,show
+2140,,
+2141,الاوردر,order
+2142,غير رقم,change phone_number
+2143,,
+2144,اعرف ايه,show late
+2145,3,item_number
+2146,ايه,late
+2147,,
+2148,,
+2149,كام,invoice
+2150,,
+2151,,
+2152,المنيو,Menu
+2153,شوف القائمة,show Menu
+2154,,
+2155,طلبتها قبل,order previous
+2156,,
+2157,مع,add
+2158,,
+2159,المنيو,Menu
+2160,الاوردر,order
+2161,3 تشيكن مع,item_number ItemName add
+2162,الطلبات لحد دلوقتي,order late late
+2163,الاوردرات,order
+2164,,
+2165,عايزة,show
+2166,شوف قائمة,show Menu
+2167,عنوان البيت,address address
+2168,,
+2169,الغي,cancel
+2170,,
+2171,الاوردر,order
+2172,عنواني,address
+2173,تفرجيني,show
+2174,عايزة البيانات,show update_data
+2175,,
+2176,,
+2177,عنوان البيت,address address
+2178,,
+2179,,
+2180,,
+2181,,
+2182,الغي العنوان,cancel address
+2183,المنيو,Menu
+2184,تغيرلي اللغة,change Language
+2185,عايزة,show
+2186,الاوردر ايه,order late
+2187,,
+2188,تشيكن,ItemName
+2189,,
+2190,اعرف الطلبات رقم,show order phone_number
+2191,الفاتورة,invoice
+2192,تغير للرقم,change phone_number
+2193,,
+2194,ايه,late
+2195,احذف ميل,delete ItemName
+2196,,
+2197,اضيف,add
+2198,اشوف,show
+2199,2,item_number
+2200,,
+2201,,
+2202,شوف الكارت,show card
+2203,,
+2204,الحجم,itemSize
+2205,,
+2206,,
+2207,اسجل عنوان,update_data address
+2208,اغير رقم الموبايل,change phone_number phone_number
+2209,اغير العنوان,change address
+2210,,
+2211,اضيف,add
+2212,الطلبات,order
+2213,رقم,phone_number
+2214,مع,add
+2215,,
+2216,عايزة,show
+2217,عايزة اسجل عنواني,show update_data address
+2218,شوف الطلبات طلبتها قبل,show order order previous
+2219,,
+2220,,
+2221,,
+2222,اشوف الاوردرات,show order
+2223,,
+2224,,
+2225,اللغة,Language
+2226,غير رقم الموبايل,change phone_number phone_number
+2227,,
+2228,اللغة,Language
+2229,الاوردر,order
+2230,,
+2231,,
+2232,,
+2233,الكارت,card
+2234,2 بيتزا كبيرة,item_number ItemName itemSize
+2235,منيو,Menu
+2236,,
+2237,,
+2238,القائمة السابقة,Menu previous
+2239,2 سلطة,item_number ItemName
+2240,تغيرلي عنوان البيت,change address address
+2241,احدث عنوان البيت,update_data address address
+2242,,
+2243,اغير رقم,change phone_number
+2244,اغير,change
+2245,,
+2246,,
+2247,,
+2248,امسح عنوان البيت,delete address address
+2249,الاوردر ايه,order late
+2250,,
+2251,الغي,cancel
+2252,منيو البيتزا,Menu ItemName
+2253,تغيير الجوال,change phone_number
+2254,,
+2255,عنواني,address
+2256,,
+2257,,
+2258,,
+2259,الفاتورة,invoice
+2260,,
+2261,اضيف عنوان,add address
+2262,القائمة,Menu
+2263,اعرضلي الطعام,show Menu
+2264,اعرضلي الاوردر,show order
+2265,العنوان,address
+2266,تبعتلي الاوردر,show order
+2267,كام,invoice
+2268,عايزة اضيف عنواني,show add address
+2269,منيو,Menu
+2270,عنوان,address
+2271,,
+2272,عايزة اشوف قائمة الطلبات,show show Menu order
+2273,اعرف,show
+2274,الاوردر 3 بيتزا مع,order item_number ItemName add
+2275,,
+2276,اشوف الاوردر,show order
+2277,عايزة اعرف كام,show show invoice
+2278,,
+2279,الغي العنوان,cancel address
+2280,البيانات,update_data
+2281,,
+2282,,
+2283,عايزة الغي عنواني,show cancel address
+2284,,
+2285,,
+2286,تغيرلي,change
+2287,,
+2288,عايزة,show
+2289,عنواني,address
+2290,غير البيانات,change update_data
+2291,كام,invoice
+2292,,
+2293,,
+2294,,
+2295,اشوف منيو,show Menu
+2296,3 سلطة,item_number ItemName
+2297,,
+2298,3,item_number
+2299,,
+2300,الاوردر,order
+2301,الاوردر دلوقتي,order late
+2302,ساندوتش,ItemName
+2303,احذف,delete
+2304,,
+2305,,
+2306,,
+2307,,
+2308,حسابى,invoice
+2309,,
+2310,طلبتها,order
+2311,,
+2312,,
+2313,غير موبايلي,change phone_number
+2314,الاوردر رقم,order phone_number
+2315,وريني ايه,show late
+2316,ساندوتش,ItemName
+2317,عايزة اشوف الاوردرات السابقة,show show order previous
+2318,العنوان,address
+2319,,
+2320,اللغة الانجليزية,Language Language
+2321,الفاتورة,invoice
+2322,,
+2323,ايه,late
+2324,الاوردر ايه,order late
+2325,شوف الطلبات طلبتها,show order order
+2326,تبعتلي قائمة الطعام,show Menu Menu
+2327,رقم,phone_number
+2328,شوف الاوردر,show order
+2329,عايزة اعدل عنوان البيت,show edit address address
+2330,,
+2331,الاسبانية,Language
+2332,,
+2333,الطلبات السابقة,order previous
+2334,شوف الاوردر,show order
+2335,عايزة اشوف قبل,show show previous
+2336,الاوردر,order
+2337,الطلبات السابقة,order previous
+2338,,
+2339,اعرف الاوردر,show order
+2340,الانجليزية,Language
+2341,,
+2342,العنوان,address
+2343,,
+2344,,
+2345,,
+2346,لغة,Language
+2347,الطعام,Menu
+2348,المنيو,Menu
+2349,عايزة اضيف عنوان البيت,show add address address
+2350,,
+2351,منيو,Menu
+2352,اشوف,show
+2353,,
+2354,,
+2355,سوبر,ItemName
+2356,الاوردر للرقم,order phone_number
+2357,عنوان البيت,address address
+2358,للحين,late
+2359,اشوف الاوردرات,show order
+2360,الطعام,Menu
+2361,اشوف المنيو,show Menu
+2362,الاوردر,order
+2363,الغي عنواني,cancel address
+2364,شوف الطلبات,show order
+2365,,
+2366,الهابي ميل,ItemName ItemName
+2367,حسابى كام,invoice invoice
+2368,مع,add
+2369,تبعتلي منيو سبكترا,show Menu location
+2370,السابقة,previous
+2371,الغي ميل,cancel ItemName
+2372,,
+2373,اللغة,Language
+2374,,
+2375,اغير رقم الجوال,change phone_number phone_number
+2376,كبير,itemSize
+2377,غير اللغة,change Language
+2378,اعرف الاوردر,show order
+2379,,
+2380,الاوردر,order
+2381,,
+2382,كبير,itemSize
+2383,,
+2384,الطلبات السابقة,order previous
+2385,العنوان,address
+2386,الغي العنوان,cancel address
+2387,بيتزا,ItemName
+2388,بيتزا سوبر سوبريم,ItemName ItemName ItemName
+2389,,
+2390,رقم موبايلي,phone_number phone_number
+2391,مع,add
+2392,طلبتها,order
+2393,,
+2394,عايزة الطلبات,show order
+2395,بدون,Exclude
+2396,الاوردر,order
+2397,,
+2398,,
+2399,,
+2400,,
+2401,,
+2402,تعرضلي,show
+2403,,
+2404,شوف الاوردرات السابقة,show order previous
+2405,كبير,itemSize
+2406,اللغة,Language
+2407,تفرجيني اوردراتي طلبتها قبل,show order order previous
+2408,عايزة 2 ساندوتش,show item_number ItemName
+2409,قائمة,Menu
+2410,شوف طلبتها,show order
+2411,اغير عنوان البيت,change address address
+2412,عايزة احدث عنوان,show update_data address
+2413,,
+2414,,
+2415,اللغة,Language
+2416,,
+2417,الاوردر,order
+2418,اشوف,show
+2419,رقم موبايلي,phone_number phone_number
+2420,الاوردر ايه,order late
+2421,الاوردر رقم,order phone_number
+2422,,
+2423,القائمة,Menu
+2424,اشوف منيو,show Menu
+2425,,
+2426,الاوردر,order
+2427,تعرضلي,show
+2428,الاوردر رقم,order phone_number
+2429,شوف قائمة الطعام,show Menu Menu
+2430,تغيير البيانات,change update_data
+2431,,
+2432,قائمة الطلبات السابقة,Menu order previous
+2433,العنوان,address
+2434,اشوف الطلبات,show order
+2435,الاوردر,order
+2436,اعرف ايه,show late
+2437,غير العنوان,change address
+2438,رقم,phone_number
+2439,,
+2440,وقت ايه,late late
+2441,اسجل عنواني,update_data address
+2442,,
+2443,,
+2444,تبعتلي الاوردرات السابقة,show order previous
+2445,,
+2446,تغيير البيانات,change update_data
+2447,,
+2448,,
+2449,اضيف رقم,add phone_number
+2450,منيو,Menu
+2451,,
+2452,,
+2453,الاوردر,order
+2454,عايزة,show
+2455,اضيف رقم,add phone_number
+2456,,
+2457,هاخد 2 بيتزا,show item_number ItemName
+2458,شوف المنيو,show Menu
+2459,,
+2460,اشوف الكارت,show card
+2461,اعرف وقت ايه الاوردر,show late late order
+2462,اعرضلي قائمة تغيير البيانات,show Menu change update_data
+2463,3,item_number
+2464,,
+2465,الطلبات,order
+2466,عنوان,address
+2467,منيو الاطباق,Menu Menu
+2468,,
+2469,الاوردر,order
+2470,,
+2471,,
+2472,اعرف وقت اد ايه,show late late late
+2473,3 2 كبير,item_number item_number itemSize
+2474,شوف الكارت,show card
+2475,مع,add
+2476,2,item_number
+2477,اغير رقم,change phone_number
+2478,شوف,show
+2479,الغي عنوان,cancel address
+2480,كبير,itemSize
+2481,2,item_number
+2482,غير اللغة,change Language
+2483,غير رقم للرقم,change phone_number phone_number
+2484,مع,add
+2485,امسح عنوان البيت,delete address address
+2486,امسح,delete
+2487,,
+2488,الطلبات القديمة,order previous
+2489,,
+2490,كام,invoice
+2491,اشوف الطلبات,show order
+2492,,
+2493,الاوردر اد ايه,order late late
+2494,,
+2495,عنواني,address
+2496,مع,add
+2497,,
+2498,,
+2499,كبير,itemSize
+2500,,
+2501,,
+2502,مع,add
+2503,للرقم,phone_number
+2504,,
+2505,العنوان,address
+2506,سبكترا,location
+2507,الاوردرات طلبتها قبل,order order previous
+2508,تغيرلي عنواني,change address
+2509,الغي العنوان,cancel address
+2510,,
+2511,,
+2512,3,item_number
+2513,تشيكن,ItemName
+2514,,
+2515,تفرجيني منيو,show Menu
+2516,الاوردر,order
+2517,الاوردر,order
+2518,تغير عنوان البيت,change address address
+2519,,
+2520,هاخد مع,show add
+2521,رقم,phone_number
+2522,,
+2523,اعرضلي الاوردر,show order
+2524,عنوان الاوردر,address order
+2525,,
+2526,اشوف القائمة,show Menu
+2527,اوردر,order
+2528,عايزة بيتزا بصل,show ItemName Exclude
+2529,كبيرة,itemSize
+2530,,
+2531,العنوان,address
+2532,,
+2533,,
+2534,الفاتورة,invoice
+2535,,
+2536,,
+2537,قائمة,Menu
+2538,اشوف طلباتي,show order
+2539,,
+2540,احذف العنوان,delete address
+2541,تشيكن,ItemName
+2542,غير رقم,change phone_number
+2543,,
+2544,احدد اللغة الاسبانية,add Language Language
+2545,بدون,Exclude
+2546,,
+2547,الاوردر,order
+2548,,
+2549,رقم الجوال للرقم,phone_number phone_number phone_number
+2550,فاضله اد ايه,late late late
+2551,عنواني,address
+2552,غير رقم الموبايل,change phone_number phone_number
+2553,اعدل العنوان,edit address
+2554,بيتزا,ItemName
+2555,,
+2556,عايزة,show
+2557,عايزة اللغة,show Language
+2558,تعرضلي,show
+2559,الطعام,Menu
+2560,مع,add
+2561,,
+2562,,
+2563,,
+2564,غير رقم,change phone_number
+2565,غير عنوان,change address
+2566,,
+2567,,
+2568,تغيرلي,change
+2569,شوف الاوردرات السابقة,show order previous
+2570,عنوان البيت,address address
+2571,قديش,show
+2572,اشوف الطلبات,show order
+2573,عايزة اغير العنوان,show change address
+2574,,
+2575,احذف,delete
+2576,,
+2577,المنيو,Menu
+2578,,
+2579,الاوردرات القديمة,order previous
+2580,,
+2581,,
+2582,,
+2583,عنواني,address
+2584,عطيني,show
+2585,احذف,delete
+2586,مع الاوردر,add order
+2587,المنيو,Menu
+2588,,
+2589,اشوف,show
+2590,عنواني,address
+2591,رقم هاتفى للرقم,phone_number phone_number phone_number
+2592,مع,add
+2593,الفاتورة,invoice
+2594,الفاتورة,invoice
+2595,عايزة اشوف الطلبات القديمة,show show order previous
+2596,2 سلطة,item_number ItemName
+2597,غير رقم,change phone_number
+2598,3,item_number
+2599,اشوف الطلبات,show order
+2600,ايه وقت الاوردر,late late order
+2601,عنواني,address
+2602,الطلبات السابقة,order previous
+2603,3 بيتزا تشيكن,item_number ItemName ItemName
+2604,,
+2605,الطلبات طلبتها,order order
+2606,غير رقم الموبايل,change phone_number phone_number
+2607,اشوف طلباتي السابقة,show order previous
+2608,2 بيتزا,item_number ItemName
+2609,الطلبات,order
+2610,,
+2611,غير البيانات,change update_data
+2612,,
+2613,قائمة,Menu
+2614,حذف العنوان,delete address
+2615,تعرضلي,show
+2616,,
+2617,العنوان,address
+2618,منيو,Menu
+2619,البيت,address
+2620,الكارت,card
+2621,قائمة المنيو,Menu Menu
+2622,,
+2623,الاوردر,order
+2624,,
+2625,اضيف,add
+2626,,
+2627,اسجل عنوان البيت,update_data address address
+2628,منيو,Menu
+2629,الاوردر,order
+2630,لحد,late
+2631,هاخد 2 سوبر سوبريم بيتزا,show item_number ItemName ItemName ItemName
+2632,3,item_number
+2633,,
+2634,دلوقتي,late
+2635,,
+2636,,
+2637,,
+2638,احدث عنواني,update_data address
+2639,اشوف الكارت,show card
+2640,عايزة اغير رقم الموبايل,show change phone_number phone_number
+2641,,
+2642,,
+2643,اغير عنوان البيت عنوان,change address address address
+2644,عطيني,show
+2645,,
+2646,تعرضلي الطعام,show Menu
+2647,المنيو,Menu
+2648,رقم موبايلي,phone_number phone_number
+2649,رقم,phone_number
+2650,عايزة اشوف الاوردر,show show order
+2651,اغير رقم,change phone_number
+2652,اشوف القائمة,show Menu
+2653,3 تشيكن سيزر,item_number ItemName ItemName
+2654,الغاء عنواني,cancel address
+2655,,
+2656,,
+2657,اللغة الانجليزية,Language Language
+2658,,
+2659,,
+2660,ايه الاوردر,late order
+2661,2,item_number
+2662,مع,add
+2663,احذف,delete
+2664,الله,Gbu
+2665,عايزة منيو,show Menu
+2666,اغير رقم,change phone_number
+2667,الاوردر,order
+2668,رقم,phone_number
+2669,شوف الاوردر,show order
+2670,,
+2671,احذف العنوان,delete address
+2672,قائمة,Menu
+2673,العنوان,address
+2674,,
+2675,,
+2676,قبل,previous
+2677,اشوف قبل,show previous
+2678,تبديل رقم الموبايل,edit phone_number phone_number
+2679,كبير,itemSize
+2680,,
+2681,نظره,show
+2682,احدد عنوان,add address
+2683,,
+2684,اعرف ايه,show late
+2685,طلباتي السابقة,order previous
+2686,اشوف الطلبات القديمة,show order previous
+2687,,
+2688,,
+2689,شيل عنوان البيت,edit address address
+2690,المنيو,Menu
+2691,,
+2692,وريني المنيو,show Menu
+2693,الطلبات,order
+2694,عنوان,address
+2695,غير رقم الجوال,change phone_number phone_number
+2696,وريني اوردراتي السابقة,show order previous
+2697,,
+2698,اعرف قديش وقت,show show late
+2699,اغير العنوان,change address
+2700,الطلبات ايه,order late
+2701,الاوردر,order
+2702,اضيف عنوان البيت,add address address
+2703,,
+2704,,
+2705,الكارت,card
+2706,الاوردر,order
+2707,رقم,phone_number
+2708,اغير لغة,change Language
+2709,قائمة الطعام,Menu Menu
+2710,,
+2711,,
+2712,الاوردر,order
+2713,رقم,phone_number
+2714,,
+2715,,
+2716,الاوردر,order
+2717,تفرجيني قائمة الطلبات السابقة,show Menu order previous
+2718,ايه وقت الاوردر,late late order
+2719,عنوان البيت,address address
+2720,,
+2721,الاوردر,order
+2722,الاوردر,order
+2723,,
+2724,الهابي ميل,ItemName ItemName
+2725,,
+2726,منيو,Menu
+2727,الاوردر,order
+2728,كام,invoice
+2729,,
+2730,,
+2731,,
+2732,5,item_number
+2733,,
+2734,,
+2735,,
+2736,اغير عنوان البيت,change address address
+2737,لحد دلوقتي,late late
+2738,,
+2739,للحين,late
+2740,رقم,phone_number
+2741,احدث عنواني,update_data address
+2742,عنوان,address
+2743,,
+2744,قديش وقت الاوردر,show late order
+2745,غير رقم,change phone_number
+2746,,
+2747,تشيكن بيتزا,ItemName ItemName
+2748,,
+2749,عنوان البيت,address address
+2750,القائمة,Menu
+2751,صغيرة,itemSize
+2752,,
+2753,,
+2754,,
+2755,القائمة,Menu
+2756,3,item_number
+2757,اشوف منيو السندوتشات,show Menu ItemName
+2758,تعرضلي منيو,show Menu
+2759,,
+2760,احذف,delete
+2761,مع,add
+2762,اعرضلي,show
+2763,اعرف الفاتورة,show invoice
+2764,اشوف منيو,show Menu
+2765,تشيكن,ItemName
+2766,,
+2767,الاوردر اد ايه,order late late
+2768,منيو,Menu
+2769,,
+2770,3 بيتزا,item_number ItemName
+2771,غير اللغة,change Language
+2772,العنوان,address
+2773,الاوردر,order
+2774,,
+2775,,
+2776,تغيرلي عنوان,change address
+2777,,
+2778,2,item_number
+2779,تفرجيني,show
+2780,الاوردر,order
+2781,,
+2782,عايزة احذف عنوان البيت,show delete address address
+2783,العنوان,address
+2784,,
+2785,مع,add
+2786,,
+2787,كام الفاتورة,invoice invoice
+2788,,
+2789,غير رقم,change phone_number
+2790,اضيف,add
+2791,,
+2792,شوف البيتزا,show ItemName
+2793,احذف,delete
+2794,المنيو,Menu
+2795,رقم,phone_number
+2796,غير,change
+2797,اوردر,order
+2798,,
+2799,,
+2800,الاوردر,order
+2801,,
+2802,,
+2803,3 بيتزا,item_number ItemName
+2804,,
+2805,الاوردر,order
+2806,الغي,cancel
+2807,اغير عنواني,change address
+2808,ايه,late
+2809,اغير العنوان,change address
+2810,الاوردر,order
+2811,عنوان البيت,address address
+2812,غير عنواني,change address
+2813,,
+2814,اعرف الاوردر ايه,show order late
+2815,الاوردر,order
+2816,كبيرة,itemSize
+2817,,
+2818,عايزة اوردر,show order
+2819,,
+2820,,
+2821,اغير اللغة,change Language
+2822,,
+2823,الاوردر,order
+2824,قائمة,Menu
+2825,هاخد 3 ساندوتش,show item_number ItemName
+2826,عايزة الغي عنواني,show cancel address
+2827,,
+2828,عنواني,address
+2829,تعرضلي طلبتها,show order
+2830,عايزة رقم,show phone_number
+2831,الطلبات,order
+2832,,
+2833,,
+2834,الاوردر,order
+2835,الاوردر 2 تشيكن ساندوتش,order item_number ItemName ItemName
+2836,الاوردر,order
+2837,الاوردر,order
+2838,احذف تشيكن,delete ItemName
+2839,,
+2840,,
+2841,عنوان البيت,address address
+2842,اسجل عنواني,update_data address
+2843,تغيير عنوان البيت,change address address
+2844,الاوردر دلوقتى,order late
+2845,2 واحد واحد كبير,item_number item_number item_number itemSize
+2846,العنوان,address
+2847,,
+2848,تغيير,change
+2849,بيتزا,ItemName
+2850,غير,change
+2851,قديش,show
+2852,ايه,late
+2853,3 سوبر سوبريم بيتزا غير,item_number ItemName ItemName ItemName change
+2854,2 مع,item_number add
+2855,كبير,itemSize
+2856,اغير رقم الجوال,change phone_number phone_number
+2857,الاوردر,order
+2858,اغير العنوان,change address
+2859,مع,add
+2860,,
+2861,اضيف رقم,add phone_number
+2862,مع,add
+2863,قائمة,Menu
+2864,اشوف,show
+2865,عنواني,address
+2866,,
+2867,رقم الموبايل,phone_number phone_number
+2868,تغيرلي رقم الجوال,change phone_number phone_number
+2869,عايزة اوردر رقم,show order phone_number
+2870,,
+2871,غير,change
+2872,احدث العنوان,update_data address
+2873,اشوف قائمة الطعام,show Menu Menu
+2874,2 ساندوتش,item_number ItemName
+2875,,
+2876,تشيكن,ItemName
+2877,,
+2878,,
+2879,الاوردر,order
+2880,اشوف الطلبات,show order
+2881,اسجل عنوان,update_data address
+2882,,
+2883,مع,add
+2884,عنواني,address
+2885,العنوان,address
+2886,اضيف,add
+2887,,
+2888,ايه,late
+2889,اشوف الاوردر,show order
+2890,,
+2891,,
+2892,الاوردر,order
+2893,,
+2894,,
+2895,الاوردر,order
+2896,2 بيتزا,item_number ItemName
+2897,احذف,delete
+2898,وقت اد ايه,late late late
+2899,5,item_number
+2900,الاوردرات,order
+2901,عايزة,show
+2902,,
+2903,الطلبات,order
+2904,,
+2905,اعرف,show
+2906,اغير رقم,change phone_number
+2907,مع,add
+2908,,
+2909,2 بيتزا كبيرة,item_number ItemName itemSize
+2910,وريني الاوردرات طلبتها قبل,show order order previous
+2911,,
+2912,,
+2913,عايزة احذف,show delete
+2914,,
+2915,,
+2916,رقم,phone_number
+2917,الاوردر,order
+2918,,
+2919,مع كبير,add itemSize
+2920,رقم موبايلي,phone_number phone_number
+2921,تغير عنوان البيت,change address address
+2922,العنوان,address
+2923,الغي عنواني,cancel address
+2924,ايه دلوقتي,late late
+2925,الاوردر,order
+2926,اشوف الطلبات,show order
+2927,منيو,Menu
+2928,,
+2929,وريني الطلبات السابقة,show order previous
+2930,,
+2931,,
+2932,,
+2933,واحد,item_number
+2934,,
+2935,عنواني,address
+2936,,
+2937,امسح,delete
+2938,,
+2939,تبعتلي الاوردر,show order
+2940,مع,add
+2941,عايزة اغير اللغة,show change Language
+2942,تغيرلي اللغة,change Language
+2943,عايزة اضيف,show add
+2944,,
+2945,لحد,late
+2946,,
+2947,مع,add
+2948,,
+2949,طلبتها,order
+2950,كبير,itemSize
+2951,اشوف قائمة الطعام,show Menu Menu
+2952,الاوردر,order
+2953,,
+2954,عايزة احدد عنوان,show add address
+2955,تغيير البيانات,change update_data
+2956,غير العنوان,change address
+2957,تفرجيني قبل,show previous
+2958,2 مع,item_number add
+2959,رقم,phone_number
+2960,رقم,phone_number
+2961,,
+2962,رقم,phone_number
+2963,اشوف قبل,show previous
+2964,اشوف,show
+2965,كبيرة,itemSize
+2966,,
+2967,عايزة,show
+2968,سلطة,ItemName
+2969,رقم البيت,phone_number address
+2970,اغير عنوان البيت,change address address
+2971,اشوف قائمة الطعام,show Menu Menu
+2972,اشوف,show
+2973,,
+2974,,
+2975,اتنين غير,item_number change
+2976,,
+2977,السابقة,previous
+2978,,
+2979,اشوف الاوردرات السابقة,show order previous
+2980,,
+2981,2 بيتزا كبير,item_number ItemName itemSize
+2982,غير,change
+2983,الاوردر ايه,order late
+2984,غير رقم الجوال,change phone_number phone_number
+2985,اضيف عنوان البيت,add address address
+2986,3,item_number
+2987,احدد عنواني,add address
+2988,,
+2989,تعرضلي قائمة الطعام,show Menu Menu
+2990,المنيو,Menu
+2991,,
+2992,تشيكن,ItemName
+2993,تشيكن,ItemName
+2994,غير رقم الموبايل,change phone_number phone_number
+2995,الاوردر,order
+2996,اعرف,show
+2997,تشيكن,ItemName
+2998,مع,add
+2999,الاوردر,order
+3000,تغيير,change
+3001,,
+3002,اشوف قبل,show previous
+3003,منيو,Menu
+3004,,
+3005,اوردر 2 بيتزا سوبر سوبريم غير,order item_number ItemName ItemName ItemName change
+3006,اعرضلي الطلبات,show order
+3007,اغير عنواني,change address
+3008,الاوردر رقم,order phone_number
+3009,امسح العنوان,delete address
+3010,غير اللغة,change Language
+3011,شوف المنيو,show Menu
+3012,اسجل عنواني,update_data address
+3013,الاوردر,order
+3014,عنوان البيت,address address
+3015,ساندوتش,ItemName
+3016,,
+3017,,
+3018,شوف المنيو,show Menu
+3019,تغير عنوان البيت,change address address
+3020,اسجل عنوان البيت,update_data address address
+3021,اعرضلي المنيو,show Menu
+3022,منيو الاطباق,Menu Menu
+3023,اشوف طلباتي طلبتها قبل,show order order previous
+3024,قديش وقت,show late
+3025,,
+3026,الغي,cancel
+3027,,
+3028,,
+3029,,
+3030,عنواني,address
+3031,,
+3032,الاوردر,order
+3033,اشوف الكارت,show card
+3034,طلبتها,order
+3035,,
+3036,,
+3037,رقم للرقم,phone_number phone_number
+3038,اعرف الاوردر ايه,show order late
+3039,2,item_number
+3040,اعرف الاوردر فاضله ايه,show order late late
+3041,,
+3042,الطلبات لحد,order late
+3043,قائمة تغيير البيانات,Menu change update_data
+3044,الطلبات,order
+3045,اعرف الاوردر,show order
+3046,تغيير رقم الجوال,change phone_number phone_number
+3047,رقم,phone_number
+3048,,
+3049,الاشياء,order
+3050,رقم,phone_number
+3051,اضيف العنوان,add address
+3052,اسجل عنوان البيت,update_data address address
+3053,اعدل العنوان,edit address
+3054,الغي عنوان,cancel address
+3055,عنوان,address
+3056,العنوان,address
+3057,الاوردر,order
+3058,2 بيتزا,item_number ItemName
+3059,احدث البيانات,update_data update_data
+3060,ايه الاوردر لحد دلوقتى,late order late late
+3061,,
+3062,اعرف اسجل بياناتي,show update_data update_data
+3063,الاوردر,order
+3064,عنوان البيت,address address
+3065,,
+3066,,
+3067,اعرف منيو,show Menu
+3068,اشوف,show
+3069,الفاتورة,invoice
+3070,,
+3071,شوف الاوردر,show order
+3072,,
+3073,,
+3074,3,item_number
+3075,وقت اد ايه,late late late
+3076,2 بيتزا مع,item_number ItemName add
+3077,اعرف ايه,show late
+3078,اغير اللغة,change Language
+3079,3 بيتزا بدون,item_number ItemName Exclude
+3080,,
+3081,عايزة تشيكن,show ItemName
+3082,احط عنواني,add address
+3083,الاطباق,Menu
+3084,,
+3085,,
+3086,مع,add
+3087,,
+3088,,
+3089,تفرجيني القائمة,show Menu
+3090,البيت,address
+3091,تعرضلي الطعام,show Menu
+3092,,
+3093,شوف الطلبات السابقة,show order previous
+3094,عنوان البيت,address address
+3095,,
+3096,تفرجيني,show
+3097,الاوردر,order
+3098,,
+3099,تبعتلي الاوردرات طلبتها قبل,show order order previous
+3100,شوف الاوردرات,show order
+3101,,
+3102,اعرضلي,show
+3103,وريني قائمة البيتزا,show Menu ItemName
+3104,ساندوتش,ItemName
+3105,,
+3106,عايزة احذف عنواني,show delete address
+3107,ايه,late
+3108,كام,invoice
+3109,اشوف المنيو,show Menu
+3110,امسح عنوان,delete address
+3111,,
+3112,شوف الطعام,show Menu
+3113,اعرف الاوردر ايه,show order late
+3114,,
+3115,قائمة الطعام,Menu Menu
+3116,عايزة,show
+3117,3 2 بيتزا,item_number item_number ItemName
+3118,قديش وقت,show late
+3119,اوردر,order
+3120,رقم,phone_number
+3121,الاوردر,order
+3122,وريني الاوردر,show order
+3123,الفاتورة,invoice
+3124,,
+3125,,
+3126,,
+3127,اغير رقم موبايلي,change phone_number phone_number
+3128,3 بدون,item_number Exclude
+3129,غير رقم الجوال,change phone_number phone_number
+3130,العنوان,address
+3131,,
+3132,,
+3133,الطلبات,order
+3134,,
+3135,الفاتورة,invoice
+3136,,
+3137,هاخد,show
+3138,قبل,previous
+3139,شوف القائمة,show Menu
+3140,اروح,show
+3141,مع,add
+3142,,
+3143,الحجم,itemSize
+3144,ايه قائمة البيتزا,late Menu ItemName
+3145,للرقم,phone_number
+3146,,
+3147,عايزة اضيف عنوان,show add address
+3148,للحين ماوصل الاوردر رقم,late late order phone_number
+3149,الطلبات,order
+3150,الاوردر,order
+3151,,
+3152,السابقة,previous
+3153,رقم موبايلي,phone_number phone_number
+3154,,
+3155,رقم,phone_number
+3156,اشوف الاوردر,show order
+3157,,
+3158,ساندوتش,ItemName
+3159,,
+3160,كبير,itemSize
+3161,المنيو,Menu
+3162,اغير,change
+3163,اوردر,order
+3164,عايزة امسح عنوان البيت,show delete address address
+3165,اعرضلي قبل,show previous
+3166,,
+3167,,
+3168,عايزة اسجل عنوان,show update_data address
+3169,عايزة اغير البيانات,show change update_data
+3170,,
+3171,تغيير العنوان,change address
+3172,عنواني,address
+3173,ايه,late
+3174,قائمة تغيير البيانات,Menu change update_data
+3175,شوف الطلبات طلبتها,show order order
+3176,مع الاوردر رقم,add order phone_number
+3177,تبديل اللغة,edit Language
+3178,الغي,cancel
+3179,,
+3180,بيتزا,ItemName
+3181,,
+3182,,
+3183,5,item_number
+3184,عنواني,address
+3185,اعرف الاوردر,show order
+3186,المنيو,Menu
+3187,اشوف طلباتي قبل,show order previous
+3188,,
+3189,,
+3190,,
+3191,,
+3192,العنوان,address
+3193,الطلبات,order
+3194,,
+3195,2,item_number
+3196,وريني,show
+3197,عنواني,address
+3198,,
+3199,,
+3200,,
+3201,غير رقم,change phone_number
+3202,,
+3203,اشوف الطلبات,show order
+3204,العنوان,address
+3205,,
+3206,,
+3207,تشيكن,ItemName
+3208,,
+3209,كبير,itemSize
+3210,قائمة الطعام,Menu Menu
+3211,اغير رقم موبايلي,change phone_number phone_number
+3212,,
+3213,,
+3214,غير رقم,change phone_number
+3215,الاوردر ايه,order late
+3216,الاوردر,order
+3217,اشوف قائمة الطعام,show Menu Menu
+3218,,
+3219,قبل,previous
+3220,العنوان,address
+3221,,
+3222,غير,change
+3223,,
+3224,,
+3225,,
+3226,,
+3227,مع,add
+3228,قائمة الطعام,Menu Menu
+3229,,
+3230,اعرف ايه,show late
+3231,اشوف,show
+3232,اشوف الاوردر,show order
+3233,اضيف رقم,add phone_number
+3234,,
+3235,الاوردر ايه,order late
+3236,وقت ايه,late late
+3237,القائمة,Menu
+3238,شوف منيو البيتزا,show Menu ItemName
+3239,,
+3240,شوف القائمة,show Menu
+3241,,
+3242,,
+3243,شوف منيو,show Menu
+3244,,
+3245,الاوردر,order
+3246,طلباتي السابقة,order previous
+3247,الاوردر,order
+3248,تغير عنوان البيت,change address address
+3249,رقم,phone_number
+3250,,
+3251,,
+3252,رقم,phone_number
+3253,,
+3254,عايزة,show
+3255,الغي العنوان,cancel address
+3256,,
+3257,عنواني,address
+3258,اغير اللغة,change Language
+3259,,
+3260,القائمة,Menu
+3261,المنيو,Menu
+3262,,
+3263,اوردر رقم ايه,order phone_number late
+3264,عايزة احدث العنوان,show update_data address
+3265,,
+3266,,
+3267,اروح,show
+3268,اشوف الاطباق سبكترا,show Menu location
+3269,وريني الاوردرات السابقة,show order previous
+3270,عايزة الغي عنواني,show cancel address
+3271,الاوردر رقم,order phone_number
+3272,,
+3273,منيو,Menu
+3274,الاوردر,order
+3275,,
+3276,عنوان البيت,address address
+3277,,
+3278,احذف عنواني,delete address
+3279,الاوردر,order
+3280,الاوردر ايه,order late
+3281,3,item_number
+3282,,
+3283,الطلبات,order
+3284,الاوردر,order
+3285,,
+3286,عايزة قائمة البيانات,show Menu update_data
+3287,شوف,show
+3288,مع,add
+3289,رقم 2,phone_number item_number
+3290,اعرف الاوردر,show order
+3291,,
+3292,,
+3293,شوف المنيو,show Menu
+3294,,
+3295,اعرضلي سبكترا,show location
+3296,البيتزا,ItemName
+3297,عايزة احذف,show delete
+3298,تغيير اللغة,change Language
+3299,الاوردر,order
+3300,عنوان البيت,address address
+3301,,
+3302,الاوردر,order
+3303,,
+3304,تغيرلي عنواني,change address
+3305,,
+3306,اوردر ايه,order late
+3307,عايزة اغير العنوان,show change address
+3308,غير رقم,change phone_number
+3309,اعرف الاوردر وقت ايه,show order late late
+3310,الانجليزية,Language
+3311,الغي العنوان,cancel address
+3312,,
+3313,,
+3314,الغي عنوان البيت,cancel address address
+3315,,
+3316,,
+3317,كام,invoice
+3318,اشوف اوردر,show order
+3319,غير رقم الموبايل,change phone_number phone_number
+3320,عنوان,address
+3321,,
+3322,المنيو,Menu
+3323,3 تشيكن كبير,item_number ItemName itemSize
+3324,هاخد 2 بيتزا كبير مع,show item_number ItemName itemSize add
+3325,اللغة,Language
+3326,المنيو,Menu
+3327,اغير رقم,change phone_number
+3328,عايزة اسجل عنوان,show update_data address
+3329,تفرجيني قائمة الطعام,show Menu Menu
+3330,تطلعنى,show
+3331,شوف قبل,show previous
+3332,الكارت,card
+3333,,
+3334,القائمة,Menu
+3335,الطلبات,order
+3336,اد ايه,late late
+3337,عايزة,show
+3338,,
+3339,اشوف,show
+3340,الاوردر,order
+3341,ميل,ItemName
+3342,عايزة الاوردر,show order
+3343,,
+3344,,
+3345,اسجل عنوان,update_data address
+3346,الاوردر فاضله ايه,order late late
+3347,قائمة الاوردرات السابقة,Menu order previous
+3348,,
+3349,وقت ايه,late late
+3350,,
+3351,امسح عنواني,delete address
+3352,تغيرلي القديمة للرقم,change previous phone_number
+3353,العنوان,address
+3354,,
+3355,مع,add
+3356,اعرف الاوردر ايه,show order late
+3357,واحد تشيكن,item_number ItemName
+3358,شوف المنيو,show Menu
+3359,الغي عنوان البيت,cancel address address
+3360,عايزة العنوان,show address
+3361,عايزة اعرف كام,show show invoice
+3362,اشوف الاوردرات,show order
+3363,,
+3364,غير رقم,change phone_number
+3365,مع,add
+3366,,
+3367,الغي ميل,cancel ItemName
+3368,تشيكن,ItemName
+3369,مع الاوردر,add order
+3370,منيو,Menu
+3371,شوف منيو الاطباق,show Menu Menu
+3372,اشوف الاوردرات السابقة,show order previous
+3373,,
+3374,القائمة,Menu
+3375,,
+3376,,
+3377,ايه,late
+3378,عنوان,address
+3379,عايزة اشوف,show show
+3380,غير,change
+3381,,
+3382,,
+3383,عايزة 3,show item_number
+3384,كام,invoice
+3385,,
+3386,العنوان,address
+3387,,
+3388,العنوان,address
+3389,ايه,late
+3390,عايزة اغير ايه,show change late
+3391,,
+3392,,
+3393,الاشياء طلبتها,order order
+3394,عنواني,address
+3395,عايزة,show
+3396,شوف منيو الاطباق,show Menu Menu
+3397,تفرجيني طلبتها,show order
+3398,,
+3399,ايه المنيو,late Menu
+3400,اعرف الاوردر لحد,show order late
+3401,,
+3402,,
+3403,الحجم,itemSize
+3404,,
+3405,عنوان البيت,address address
+3406,عايزة,show
+3407,,
+3408,,
+3409,,
+3410,شوف قائمة الطعام,show Menu Menu
+3411,منيو,Menu
+3412,المنيو,Menu
+3413,اشوف الاوردر,show order
+3414,الاوردر ايه,order late
+3415,رقم,phone_number
+3416,,
+3417,اوردر,order
+3418,حذف العنوان,delete address
+3419,,
+3420,عايزة اعرف الاوردر فاضله ايه,show show order late late
+3421,اوردر بيتزا سوبر سوبريم ستافد كراست غير بصل,order ItemName ItemName ItemName ItemName ItemName change Exclude
+3422,اعرف قديش وقت,show show late
+3423,عايزة 2,show item_number
+3424,3 مع,item_number add
+3425,رقم هاتفى,phone_number phone_number
+3426,اشوف الطعام,show Menu
+3427,الاوردر,order
+3428,,
+3429,عايزة الغي,show cancel
+3430,تبعتلي قائمة,show Menu
+3431,شوف الاوردرات السابقة,show order previous
+3432,,
+3433,رقم الجوال,phone_number phone_number
+3434,اضيف 2,add item_number
+3435,غير العنوان,change address
+3436,مع,add
+3437,شوف الاوردرات طلبتها قبل,show order order previous
+3438,ايه,late
+3439,الفاتورة,invoice
+3440,امسح تشيكن ميل,delete ItemName ItemName
+3441,,
+3442,اشوف,show
+3443,اغير رقم,change phone_number
+3444,,
+3445,,
+3446,تغيير اللغة,change Language
+3447,,
+3448,الهابي ميل,ItemName ItemName
+3449,الاوردر,order
+3450,اشوف المنيو,show Menu
+3451,,
+3452,,
+3453,,
+3454,,
+3455,,
+3456,ساندوتش بدون,ItemName Exclude
+3457,لحد,late
+3458,احدث العنوان,update_data address
+3459,,
+3460,,
+3461,اعرف الاوردر ايه,show order late
+3462,,
+3463,,
+3464,اشوف منيو البيتزا,show Menu ItemName
+3465,الطلبات,order
+3466,,
+3467,اضيف رقم,add phone_number
+3468,,
+3469,الاوردر,order
+3470,ايه,late
+3471,الاوردر,order
+3472,رقم الموبايل,phone_number phone_number
+3473,,
+3474,الفاتورة,invoice
+3475,,
+3476,ايه,late
+3477,عايزة اشوف,show show
+3478,عنواني,address
+3479,مع,add
+3480,عنوان,address
+3481,سلطة,ItemName
+3482,عايزة اعرف كام,show show invoice
+3483,تغيير البيانات,change update_data
+3484,رقم,phone_number
+3485,,
+3486,,
+3487,,
+3488,مع,add
+3489,اشوف,show
+3490,القائمة,Menu
+3491,شوف قديش,show show
+3492,اسجل عنوان البيت,update_data address address
+3493,احدث العنوان,update_data address
+3494,3 تشيكن,item_number ItemName
+3495,,
+3496,,
+3497,العنوان,address
+3498,تشيكن ميل,ItemName ItemName
+3499,اشوف طلبتها,show order
+3500,تفرجيني,show
+3501,مع,add
+3502,غير,change
+3503,ايه,late
+3504,,
+3505,,
+3506,,
+3507,,
+3508,,
+3509,الفاتورة,invoice
+3510,,
+3511,تعرضلي,show
+3512,اشوف المنيو,show Menu
+3513,الاوردر,order
+3514,بياناتي,update_data
+3515,عنوان البيت,address address
+3516,,
+3517,الاوردر,order
+3518,,
+3519,احذف العنوان,delete address
+3520,العنوان,address
+3521,احدث,update_data
+3522,سلطة بدون بصل,ItemName Exclude Exclude
+3523,العنوان,address
+3524,,
+3525,نظره الاوردرات,show order
+3526,,
+3527,,
+3528,عنوان,address
+3529,,
+3530,,
+3531,القائمة,Menu
+3532,,
+3533,,
+3534,,
+3535,عايزة العنوان,show address
+3536,مع,add
+3537,عنوان,address
+3538,الاوردرات السابقة,order previous
+3539,اغير عنواني,change address
+3540,رقم موبايلي,phone_number phone_number
+3541,قائمة تغيير البيانات,Menu change update_data
+3542,,
+3543,,
+3544,اشوف الكارت,show card
+3545,,
+3546,احذف العنوان,delete address
+3547,عنوان,address
+3548,الطلبات ايه,order late
+3549,شوف الطلبات طلبتها قبل,show order order previous
+3550,,
+3551,اضيف,add
+3552,,
+3553,الاطباق,Menu
+3554,تضيفلي بيتزا تشيكن,add ItemName ItemName
+3555,اشوف منيو,show Menu
+3556,حذف,delete
+3557,احذف,delete
+3558,اشوف قبل,show previous
+3559,,
+3560,,
+3561,عنوان البيت,address address
+3562,,
+3563,,
+3564,غير رقم,change phone_number
+3565,اعرضلي الاوردر,show order
+3566,,
+3567,اضيف العنوان,add address
+3568,احذف العنوان,delete address
+3569,الغي العنوان,cancel address
+3570,,
+3571,,
+3572,,
+3573,,
+3574,اشوف قائمة الطعام,show Menu Menu
+3575,الاوردر,order
+3576,الطلبات,order
+3577,عايزة اغير,show change
+3578,ساندوتش كبير,ItemName itemSize
+3579,,
+3580,,
+3581,الله,Gbu
+3582,,
+3583,,
+3584,الاوردر فاضله ايه,order late late
+3585,الاوردر,order
+3586,مع,add
+3587,اغير رقم,change phone_number
+3588,,
+3589,تبعتلي القائمة,show Menu
+3590,الحجم الكبير,itemSize itemSize
+3591,,
+3592,,
+3593,الاوردر,order
+3594,,
+3595,2,item_number
+3596,اشوف الكارت,show card
+3597,اعدل رقم,edit phone_number
+3598,,
+3599,,
+3600,اعرضلي,show
+3601,اعرف العنوان,show address
+3602,عايزة,show
+3603,واحد,item_number
+3604,رقم الموبايل,phone_number phone_number
+3605,الفاتورة,invoice
+3606,عايزة اعرف اوردر,show show order
+3607,,
+3608,,
+3609,العنوان,address
+3610,,
+3611,الطلبات السابقة,order previous
+3612,الاوردر كام,order invoice
+3613,قائمة الطعام,Menu Menu
+3614,3 ساندوتش كبير,item_number ItemName itemSize
+3615,,
+3616,اشوف الكارت,show card
+3617,الاوردر دلوقتي,order late
+3618,,
+3619,,
+3620,اعرف قديش وقت,show show late
+3621,رقم,phone_number
+3622,مع,add
+3623,عايزة 2 مع,show item_number add
+3624,اشوف المنيو,show Menu
+3625,,
+3626,,
+3627,منيو,Menu
+3628,2,item_number
+3629,شوف,show
+3630,,
+3631,احذف,delete
+3632,الاوردر,order
+3633,عايزة اشوف الكارت,show show card
+3634,,
+3635,اوردر,order
+3636,,
+3637,عايزة احدث البيانات,show update_data update_data
+3638,اشوف المنيو,show Menu
+3639,عايزة اضيف عنوان,show add address
+3640,عايزة امسح عنوان البيت,show delete address address
+3641,شوف,show
+3642,,
+3643,,
+3644,,
+3645,,
+3646,رقم للرقم,phone_number phone_number
+3647,,
+3648,,
+3649,ايه,late
+3650,,
+3651,,
+3652,,
+3653,غير رقم,change phone_number
+3654,ساندوتش,ItemName
+3655,,
+3656,وريني الاوردرات القديمة,show order previous
+3657,,
+3658,عنوان البيت,address address
+3659,الاوردر,order
+3660,غير بياناتي,change update_data
+3661,شوف,show
+3662,,
+3663,منيو,Menu
+3664,طلبتها,order
+3665,شيل عنوان البيت,edit address address
+3666,عطيني قائمة الطعام,show Menu Menu
+3667,عايزة اعدل رقم,show edit phone_number
+3668,,
+3669,,
+3670,,
+3671,,
+3672,الاوردر,order
+3673,الطلبات,order
+3674,الاوردر 3,order item_number
+3675,العنوان,address
+3676,,
+3677,عنواني,address
+3678,,
+3679,,
+3680,الفاتورة,invoice
+3681,الطلبات,order
+3682,عايزة ميل,show ItemName
+3683,الطلبات السابقة,order previous
+3684,تفرجيني قائمة الطلبات السابقة,show Menu order previous
+3685,,
+3686,اسجل العنوان,update_data address
+3687,اسجل عنوان,update_data address
+3688,,
+3689,اغير,change
+3690,رقم الموبايل للرقم,phone_number phone_number phone_number
+3691,ايه,late
+3692,,
+3693,,
+3694,شوف الاوردرات طلبتها قبل,show order order previous
+3695,منيو,Menu
+3696,اغير العنوان,change address
+3697,رقم موبايلي,phone_number phone_number
+3698,,
+3699,,
+3700,عايزة اغير عنوان,show change address
+3701,الفاتورة,invoice
+3702,,
+3703,احذف العنوان,delete address
+3704,,
+3705,عايزة اشوف منيو,show show Menu
+3706,,
+3707,قائمة تغيير البيانات,Menu change update_data
+3708,غير رقم الموبايل,change phone_number phone_number
+3709,رقم الجوال,phone_number phone_number
+3710,رقم موبايلي,phone_number phone_number
+3711,رقم,phone_number
+3712,الجوال,phone_number
+3713,,
+3714,العنوان,address
+3715,بيتزا سوبر سوبريم,ItemName ItemName ItemName
+3716,,
+3717,كبير,itemSize
+3718,مع,add
+3719,الطلبات,order
+3720,مع,add
+3721,,
+3722,,
+3723,,
+3724,الغي عنواني,cancel address
+3725,تغيير البيانات,change update_data
+3726,,
+3727,ميل,ItemName
+3728,,
+3729,,
+3730,اسجل عنوان,update_data address
+3731,غير العنوان,change address
+3732,,
+3733,عايزة,show
+3734,عايزة منيو,show Menu
+3735,البيت البيت عنوان غير,address address address change
+3736,اشوف,show
+3737,,
+3738,اشوف,show
+3739,تعرضلي المنيو,show Menu
+3740,رقم,phone_number
+3741,كام,invoice
+3742,العنوان,address
+3743,اعدل عنواني,edit address
+3744,,
+3745,,
+3746,اغير رقم الموبايل,change phone_number phone_number
+3747,,
+3748,المنيو,Menu
+3749,اشوف المنيو,show Menu
+3750,الاوردر,order
+3751,هاخد,show
+3752,,
+3753,البيانات,update_data
+3754,احذف عنوان البيت,delete address address
+3755,الفاتورة,invoice
+3756,,
+3757,كام,invoice
+3758,عايزة عنواني,show address
+3759,تغيير,change
+3760,العنوان,address
+3761,الاوردر فاضله ايه,order late late
+3762,3,item_number
+3763,احط رقم البيت,add phone_number address
+3764,اسجل رقم الموبايل,update_data phone_number phone_number
+3765,,
+3766,,
+3767,العنوان,address
+3768,شوف الطعام,show Menu
+3769,الفاتورة,invoice
+3770,,
+3771,,
+3772,اتنين كبير,item_number itemSize
+3773,,
+3774,,
+3775,,
+3776,الطلبات,order
+3777,,
+3778,الاوردر,order
+3779,عايزة مع,show add
+3780,مع,add
+3781,اشوف الطلبات,show order
+3782,اضيف عنوان,add address
+3783,,
+3784,عطيني الفاتورة,show invoice
+3785,,
+3786,اضيف عنوان,add address
+3787,اشوف,show
+3788,الاوردر,order
+3789,,
+3790,مع,add
+3791,2 مع كبير,item_number add itemSize
+3792,,
+3793,عايزة,show
+3794,,
+3795,تشيكن ميل,ItemName ItemName
+3796,رقم 3,phone_number item_number
+3797,امسح,delete
+3798,,
+3799,,
+3800,,
+3801,2 واحد واحد كبير,item_number item_number item_number itemSize
+3802,رقم موبايلي,phone_number phone_number
+3803,اعدل العنوان,edit address
+3804,بيتزا سوبر سوبريم,ItemName ItemName ItemName
+3805,وريني الطلبات,show order
+3806,كبير طحينه غير,itemSize ingredients change
+3807,,
+3808,شوف الكارت,show card
+3809,اغير اللغة,change Language
+3810,,
+3811,,
+3812,الاوردر,order
+3813,,
+3814,5 ساندوتش مع 2,item_number ItemName add item_number
+3815,اغير عنوان,change address
+3816,,
+3817,الطلبات ايه,order late
+3818,الاوردر,order
+3819,,
+3820,,
+3821,,
+3822,غير عنوان,change address
+3823,عايزة اشوف اوردراتي,show show order
+3824,,
+3825,عايزة بيتزا كبير,show ItemName itemSize
+3826,,
+3827,,
+3828,تفرجيني,show
+3829,تغيير البيانات,change update_data
+3830,,
+3831,اللغة,Language
+3832,شيل,edit
+3833,عنوان البيت,address address
+3834,,
+3835,,
+3836,,
+3837,,
+3838,مع,add
+3839,3 بيتزا كبير بصل,item_number ItemName itemSize Exclude
+3840,,
+3841,عنواني,address
+3842,وقت,late
+3843,عايزة,show
+3844,عنوان البيت,address address
+3845,الاوردر,order
+3846,عنوان,address
+3847,احذف العنوان,delete address
+3848,احذف العنوان,delete address
+3849,اشوف منيو,show Menu
+3850,,
+3851,مع,add
+3852,تعرضلي,show
+3853,ايه,late
+3854,,
+3855,,
+3856,اللغة الانجليزية,Language Language
+3857,هاخد 3 بيتزا كبير,show item_number ItemName itemSize
+3858,الاوردر,order
+3859,قائمة تغيير البيانات,Menu change update_data
+3860,عنواني,address
+3861,3 بصل,item_number Exclude
+3862,اغير العنوان,change address
+3863,,
+3864,مع سلطة,add ItemName
+3865,الغي عنواني,cancel address
+3866,,
+3867,الاوردر,order
+3868,تبعتلي منيو,show Menu
+3869,مع,add
+3870,قائمة,Menu
+3871,منيو,Menu
+3872,غير العنوان,change address
+3873,عنوان,address
+3874,الاطباق,Menu
+3875,مع,add
+3876,دلوقتي,late
+3877,تفرجيني قائمة الاوردرات السابقة,show Menu order previous
+3878,,
+3879,عايزة اشوف الاوردرات,show show order
+3880,اضيف عنوان البيت,add address address
+3881,كبير,itemSize
+3882,عايزة,show
+3883,للرقم,phone_number
+3884,عنوان,address
+3885,عايزة اشوف قبل,show show previous
+3886,اشوف منيو,show Menu
+3887,اعرضلي الاوردر,show order
+3888,بيتزا,ItemName
+3889,,
+3890,كبير بدون مع,itemSize Exclude add
+3891,اشوف,show
+3892,اشوف الاوردر,show order
+3893,اعرضلي,show
+3894,,
+3895,عايزة,show
+3896,,
+3897,اعرضلي السابقة,show previous
+3898,رقم الموبايل,phone_number phone_number
+3899,وريني قبل,show previous
+3900,ايه,late
+3901,المنيو,Menu
+3902,وريني الطلبات,show order
+3903,اشوف الطلبات,show order
+3904,العنوان,address
+3905,اشوف قبل,show previous
+3906,العنوان,address
+3907,الاوردر,order
+3908,,
+3909,عايزة الاوردر,show order
+3910,تعرضلي الطلبات,show order
+3911,شوف الاوردر,show order
+3912,امسح عنواني,delete address
+3913,,
+3914,,
+3915,,
+3916,,
+3917,عايزة احدد عنوان,show add address
+3918,اشوف الطلبات السابقة,show order previous
+3919,للرقم,phone_number
+3920,القائمة,Menu
+3921,غير رقم,change phone_number
+3922,اشوف الكارت,show card
+3923,احذف,delete
+3924,قبل,previous
+3925,تبعتلي,show
+3926,بياناتي,update_data
+3927,تغيير البيانات,change update_data
+3928,ساندوتش,ItemName
+3929,اغير رقم موبايلي,change phone_number phone_number
+3930,,
+3931,العنوان,address
+3932,,
+3933,شوف المنيو,show Menu
+3934,,
+3935,الاوردر,order
+3936,,
+3937,قديش وقت الاوردر,show late order
+3938,,
+3939,,
+3940,قائمة الطعام,Menu Menu
+3941,ايه الاوردرات,late order
+3942,المنيو,Menu
+3943,,
+3944,عايزة اضيف عنوان,show add address
+3945,عايزة اسجل عنوان البيت,show update_data address address
+3946,اغير عنوان البيت,change address address
+3947,غير عنوان البيت,change address address
+3948,اغير رقم الجوال,change phone_number phone_number
+3949,,
+3950,,
+3951,ميل,ItemName
+3952,تشيكن,ItemName
+3953,اغير رقم للرقم,change phone_number phone_number
+3954,3 بيتزا,item_number ItemName
+3955,3 بصل,item_number Exclude
+3956,,
+3957,رقم,phone_number
+3958,عنوان البيت,address address
+3959,,
+3960,,
+3961,تفرجيني المنيو,show Menu
+3962,,
+3963,,
+3964,اعرضلي الكارت,show card
+3965,,
+3966,امسح عنوان البيت,delete address address
+3967,رقم,phone_number
+3968,,
+3969,اشوف الاوردرات طلبتها قبل,show order order previous
+3970,اشوف ايه,show late
+3971,مع,add
+3972,الاوردر رقم للحين,order phone_number late
+3973,شوف,show
+3974,,
+3975,اعرضلي,show
+3976,,
+3977,اسجل عنواني,update_data address
+3978,تفرجيني,show
+3979,,
+3980,,
+3981,3 كبير,item_number itemSize
+3982,اعرف الاوردر وقت اد ايه,show order late late late
+3983,,
+3984,,
+3985,تغيير الموبايل,change phone_number
+3986,هاخد كبير,show itemSize
+3987,عنواني,address
+3988,اشوف,show
+3989,عايزة ساندوتش,show ItemName
+3990,,
+3991,,
+3992,شوف الطلبات السابقة,show order previous
+3993,امسح,delete
+3994,طلباتي طلبتها,order order
+3995,,
+3996,تغيير البيانات,change update_data
+3997,,
+3998,ايه,late
+3999,عايزة القائمة,show Menu
+4000,بدون,Exclude
+4001,الاوردر,order
+4002,,
+4003,اعرضلي,show
+4004,,
+4005,الاوردر,order
+4006,,
+4007,رقم,phone_number
+4008,رقم للرقم,phone_number phone_number
+4009,اضيف رقم,add phone_number
+4010,,
+4011,اغير للرقم,change phone_number
+4012,,
+4013,الفاتورة,invoice
+4014,,
+4015,منيو,Menu
+4016,رقم الجوال,phone_number phone_number
+4017,,
+4018,سلطة,ItemName
+4019,,
+4020,اوردر,order
+4021,ايه دلوقتي,late late
+4022,وريني,show
+4023,اشوف الطلبات السابقة,show order previous
+4024,عايزة,show
+4025,,
+4026,,
+4027,,
+4028,شوف,show
+4029,,
+4030,العنوان,address
+4031,العنوان,address
+4032,,
+4033,للرقم,phone_number
+4034,البيانات,update_data
+4035,,
+4036,,
+4037,اغير رقم للرقم,change phone_number phone_number
+4038,عنوان,address
+4039,2 بيتزا تشيكن سوبريم بصل,item_number ItemName ItemName ItemName Exclude
+4040,تفرجيني,show
+4041,,
+4042,الفاتورة,invoice
+4043,,
+4044,,
+4045,,
+4046,شوف الاوردرات طلبتها,show order order
+4047,عنواني,address
+4048,الاوردر,order
+4049,العنوان,address
+4050,اغير رقم الجوال,change phone_number phone_number
+4051,عايزة اشوف,show show
+4052,قديش,show
+4053,قائمة الطعام,Menu Menu
+4054,,
+4055,,
+4056,,
+4057,الكارت,card
+4058,,
+4059,,
+4060,تشيكن ميل,ItemName ItemName
+4061,الاوردر ايه,order late
+4062,,
+4063,احذف العنوان,delete address
+4064,الاوردر,order
+4065,الطعام,Menu
+4066,2 بيتزا,item_number ItemName
+4067,,
+4068,عايزة منيو,show Menu
+4069,تغيير البيانات,change update_data
+4070,شوف المنيو,show Menu
+4071,تشيكن مع,ItemName add
+4072,,
+4073,,
+4074,ايه,late
+4075,,
+4076,تشيكن,ItemName
+4077,,
+4078,اضيف عنوان,add address
+4079,تعرضلي منيو,show Menu
+4080,,
+4081,شوف المنيو,show Menu
+4082,شوف السندوتشات,show ItemName
+4083,امسح,delete
+4084,,
+4085,الطلبات القديمة,order previous
+4086,شوف الاوردرات,show order
+4087,,
+4088,,
+4089,شوف,show
+4090,الغاء العنوان,cancel address
+4091,عنواني,address
+4092,,
+4093,اعرف ايه,show late
+4094,الطلبات,order
+4095,,
+4096,الطلبات,order
+4097,كبير,itemSize
+4098,,
+4099,مع,add
+4100,عايزة الغي العنوان,show cancel address
+4101,هاخد 3 بيتزا سوبر سوبريم مع,show item_number ItemName ItemName ItemName add
+4102,العنوان,address
+4103,الفاتورة,invoice
+4104,اشوف,show
+4105,رقم الجوال,phone_number phone_number
+4106,,
+4107,3 كبير,item_number itemSize
+4108,العنوان,address
+4109,,
+4110,اشوف,show
+4111,المنيو,Menu
+4112,,
+4113,,
+4114,البيانات,update_data
+4115,,
+4116,المنيو,Menu
+4117,كبير غير مع,itemSize change add
+4118,,
+4119,تعرضلي المنيو,show Menu
+4120,2 ساندوتش,item_number ItemName
+4121,تغيير البيانات,change update_data
+4122,وريني المنيو,show Menu
+4123,رقم,phone_number
+4124,غير رقم,change phone_number
+4125,كبيرة,itemSize
+4126,الكارت,card
+4127,,
+4128,عنواني,address
+4129,مع,add
+4130,اغير,change
+4131,شوف المنيو,show Menu
+4132,,
+4133,رقم,phone_number
+4134,رقم,phone_number
+4135,كبير,itemSize
+4136,الاوردر,order
+4137,,
+4138,2 بيتزا,item_number ItemName
+4139,عايزة اغير,show change
+4140,,
+4141,,
+4142,,
+4143,,
+4144,اعرضلي منيو بيتزا,show Menu ItemName
+4145,عايزة قائمة البيانات,show Menu update_data
+4146,نظره طلبتها,show order
+4147,3 بصل غير طحينه,item_number Exclude change ingredients
+4148,تفرجيني الطعام,show Menu
+4149,الاوردر,order
+4150,الاوردر,order
+4151,عايزة,show
+4152,شوف طلبتها,show order
+4153,عايزة,show
+4154,,
+4155,احذف,delete
+4156,الاوردر,order
+4157,رقم هاتفى للرقم,phone_number phone_number phone_number
+4158,عايزة العنوان,show address
+4159,غير,change
+4160,,
+4161,عايزة اغير عنوان,show change address
+4162,3 ساندوتش شيل,item_number ItemName edit
+4163,رقم,phone_number
+4164,العنوان,address
+4165,عنوان البيت,address address
+4166,,
+4167,,
+4168,القائمة,Menu
+4169,2 بيتزا,item_number ItemName
+4170,الطلبات,order
+4171,ايه,late
+4172,اضيف عنواني,add address
+4173,ايه الاوردر,late order
+4174,اعرف الاوردر,show order
+4175,شوف الكارت,show card
+4176,غير,change
+4177,قبل,previous
+4178,مع,add
+4179,ايه المنيو,late Menu
+4180,عنواني,address
+4181,,
+4182,,
+4183,الغي تشيكن,cancel ItemName
+4184,الغي العنوان,cancel address
+4185,,
+4186,,
+4187,الاوردرات القديمة,order previous
+4188,مع,add
+4189,المنيو,Menu
+4190,الطلبات,order
+4191,اد ايه,late late
+4192,البيانات,update_data
+4193,,
+4194,,
+4195,عايزة اعرف ايه,show show late
+4196,,
+4197,,
+4198,مع,add
+4199,اغير,change
+4200,,
+4201,شوف الطعام,show Menu
+4202,,
+4203,غير رقم للرقم,change phone_number phone_number
+4204,اعرضلي قائمة الطعام,show Menu Menu
+4205,,
+4206,الغي العنوان,cancel address
+4207,اغير رقم,change phone_number
+4208,المنيو,Menu
+4209,,
+4210,كام,invoice
+4211,احذف العنوان,delete address
+4212,عايزة,show
+4213,عايزة اغير للرقم,show change phone_number
+4214,غير رقم الموبايل,change phone_number phone_number
+4215,مع سلطة,add ItemName
+4216,مع,add
+4217,,
+4218,الاوردر اتنين ساندوتش,order item_number ItemName
+4219,الطلبات,order
+4220,قائمة تغيير البيانات,Menu change update_data
+4221,مع,add
+4222,ايه,late
+4223,3 تشيكن بصل,item_number ItemName Exclude
+4224,عايزة رقم,show phone_number
+4225,اضيف عنواني,add address
+4226,اشوف القائمة,show Menu
+4227,تبديل لغة,edit Language
+4228,,
+4229,اشوف الطلبات القديمة,show order previous
+4230,البيانات,update_data
+4231,مع,add
+4232,قبل,previous
+4233,عايزة,show
+4234,الاوردرات السابقة,order previous
+4235,عايزة,show
+4236,الاوردر,order
+4237,وريني الاوردر,show order
+4238,اعرف,show
+4239,الطلبات,order
+4240,,
+4241,اضيف عنوان البيت,add address address
+4242,,
+4243,,
+4244,اضيف عنواني,add address
+4245,ايه,late
+4246,3 بصل مع,item_number Exclude add
+4247,موبايلي,phone_number
+4248,,
+4249,بيتزا صغيرة,ItemName itemSize
+4250,,
+4251,,
+4252,تبعتلي الاوردر,show order
+4253,ايه,late
+4254,مع,add
+4255,,
+4256,واحد,item_number
+4257,الغي,cancel
+4258,,
+4259,,
+4260,الغي,cancel
+4261,مع,add
+4262,احذف تشيكن,delete ItemName
+4263,قائمة الطعام,Menu Menu
+4264,تغيير البيانات,change update_data
+4265,,
+4266,رقم الجوال,phone_number phone_number
+4267,2 مع سلطة,item_number add ItemName
+4268,منيو,Menu
+4269,,
+4270,,
+4271,عايزة اغير,show change
+4272,اغير العنوان,change address
+4273,,
+4274,,
+4275,,
+4276,,
+4277,3,item_number
+4278,,
+4279,رقم,phone_number
+4280,الانجليزية,Language
+4281,,
+4282,,
+4283,غير بياناتي,change update_data
+4284,,
+4285,السابقة,previous
+4286,اغير رقم الموبايل,change phone_number phone_number
+4287,امسح سوبريم,delete ItemName
+4288,عنواني,address
+4289,رقم,phone_number
+4290,اسجل عنوان,update_data address
+4291,عايزة ساندوتش,show ItemName
+4292,,
+4293,امسح العنوان,delete address
+4294,,
+4295,الاوردرات السابقة,order previous
+4296,حذف,delete
+4297,وريني الاوردر,show order
+4298,,
+4299,,
+4300,,
+4301,عنوان,address
+4302,القائمة,Menu
+4303,الاوردر ايه,order late
+4304,,
+4305,اغير رقم للرقم,change phone_number phone_number
+4306,تبديل رقم,edit phone_number
+4307,,
+4308,,
+4309,2 ساندوتش,item_number ItemName
+4310,ايه,late
+4311,عايزة اغير عنواني,show change address
+4312,سلطة كبير,ItemName itemSize
+4313,,
+4314,,
+4315,,
+4316,3 مع بدون,item_number add Exclude
+4317,الطلبات ايه,order late
+4318,مع,add
+4319,الاوردر,order
+4320,,
+4321,ايه,late
+4322,شوف,show
+4323,الاوردر,order
+4324,عايزة احط العنوان,show add address
+4325,الطلبات,order
+4326,,
+4327,,
+4328,اغير رقم الجوال,change phone_number phone_number
+4329,عايزة اشوف,show show
+4330,غير رقم الجوال,change phone_number phone_number
+4331,الاوردر ايه,order late
+4332,,
+4333,عايزة القائمة السابقة,show Menu previous
+4334,,
+4335,الاوردر,order
+4336,الغي عنوان البيت,cancel address address
+4337,,
+4338,,
+4339,اشوف قبل,show previous
+4340,الاوردر,order
+4341,اضيف عنوان,add address
+4342,,
+4343,,
+4344,احدد,add
+4345,,
+4346,سلطة كبير,ItemName itemSize
+4347,العنوان,address
+4348,,
+4349,ايه تغيير الموبايل,late change phone_number
+4350,,
+4351,,
+4352,الاوردر رقم,order phone_number
+4353,,
+4354,حسابى,invoice
+4355,اشوف المنيو,show Menu
+4356,الغي,cancel
+4357,الاوردر,order
+4358,عايزة الغي عنوان البيت,show cancel address address
+4359,احذف العنوان,delete address
+4360,العنوان,address
+4361,,
+4362,,
+4363,الاوردر,order
+4364,الطلبات,order
+4365,,
+4366,,
+4367,غير,change
+4368,اشوف منيو,show Menu
+4369,امسح,delete
+4370,الاوردر اد ايه,order late late
+4371,رقم الموبايل,phone_number phone_number
+4372,شوف المنيو,show Menu
+4373,عطيني قائمة تغيير البيانات,show Menu change update_data
+4374,عايزة اسجل عنوان البيت,show update_data address address
+4375,,
+4376,العنوان,address
+4377,,
+4378,,
+4379,رقم الموبايل,phone_number phone_number
+4380,,
+4381,اشوف الاوردر,show order
+4382,,
+4383,,
+4384,مع,add
+4385,عايزة لغة,show Language
+4386,عايزة منيو,show Menu
+4387,,
+4388,,
+4389,,
+4390,ساندوتش,ItemName
+4391,الاوردر,order
+4392,,
+4393,اشوف الكارت,show card
+4394,,
+4395,شوف الكارت,show card
+4396,كبير غير بصل طحينه,itemSize change Exclude ingredients
+4397,اغير,change
+4398,الاوردر,order
+4399,,
+4400,,
+4401,,
+4402,,
+4403,هاخد,show
+4404,عايزة اشوف الكارت,show show card
+4405,اغير رقم,change phone_number
+4406,تغيير عنوان,change address
+4407,الكارت,card
+4408,,
+4409,,
+4410,الغي عنواني,cancel address
+4411,,
+4412,اعرف الاوردر,show order
+4413,عنوان,address
+4414,,
+4415,,
+4416,اشوف,show
+4417,اشوف الاوردر,show order
+4418,,
+4419,عنواني,address
+4420,,
+4421,امسح,delete
+4422,اغير رقم للرقم,change phone_number phone_number
+4423,,
+4424,تضيفلي,add
+4425,الطعام,Menu
+4426,عايزة,show
+4427,عنوان,address
+4428,الاوردر,order
+4429,,
+4430,تطلعنى,show
+4431,عايزة اضيف عنواني,show add address
+4432,شوف الطلبات السابقة,show order previous
+4433,,
+4434,الاوردر,order
+4435,عايزة اغير بياناتي,show change update_data
+4436,احذف,delete
+4437,اعرف الفاتورة,show invoice
+4438,اعدل عنواني,edit address
+4439,الفاتورة,invoice
+4440,رقم هاتفى للرقم,phone_number phone_number phone_number
+4441,,
+4442,,
+4443,اعرضلي طلبتها,show order
+4444,اضيف,add
+4445,الاوردر,order
+4446,,
+4447,تفرجيني الطعام قبل,show Menu previous
+4448,,
+4449,,
+4450,اعرضلي,show
+4451,,
+4452,3 بيتزا,item_number ItemName
+4453,2 بيتزا,item_number ItemName
+4454,,
+4455,احط العنوان,add address
+4456,عايزة,show
+4457,شوف المنيو,show Menu
+4458,اضيف,add
+4459,,
+4460,شوف منيو,show Menu
+4461,عايزة 3 بيتزا,show item_number ItemName
+4462,شوف الكارت,show card
+4463,,
+4464,,
+4465,الاوردرات,order
+4466,اضيف عنوان,add address
+4467,الغي عنواني,cancel address
+4468,تفرجيني طلبتها,show order
+4469,قائمة الطعام,Menu Menu
+4470,تغيير البيانات,change update_data
+4471,اضيف عنوان,add address
+4472,الاوردر,order
+4473,تبعتلي,show
+4474,الطلبات,order
+4475,منيو,Menu
+4476,عايزة اضيف عنوان البيت,show add address address
+4477,عايزة اسجل عنوان,show update_data address
+4478,,
+4479,الاوردر,order
+4480,شوف منيو,show Menu
+4481,اغير رقم,change phone_number
+4482,,
+4483,عنواني,address
+4484,السابقة,previous
+4485,,
+4486,عنوان,address
+4487,عايزة,show
+4488,,
+4489,المنيو,Menu
+4490,اشوف قائمة الطعام,show Menu Menu
+4491,البيانات,update_data
+4492,,
+4493,,
+4494,,
+4495,,
+4496,شوف المنيو,show Menu
+4497,الاوردر رقم لحد,order phone_number late
+4498,العنوان,address
+4499,اعرضلي الكارت,show card
+4500,غير رقم للرقم,change phone_number phone_number
+4501,اشوف الاوردر,show order
+4502,احدث عنواني,update_data address
+4503,العنوان,address
+4504,شوف الطلبات السابقة,show order previous
+4505,عطيني الطلبات طلبتها قبل,show order order previous
+4506,الغي,cancel
+4507,,
+4508,الاوردر,order
+4509,تشيكن,ItemName
+4510,,
+4511,,
+4512,العنوان,address
+4513,عنوان البيت,address address
+4514,الاوردر رقم,order phone_number
+4515,عايزة اعرف كام,show show invoice
+4516,شوف قائمة الطعام,show Menu Menu
+4517,3 كبير,item_number itemSize
+4518,,
+4519,ساندوتش,ItemName
+4520,تشيكن,ItemName
+4521,اشوف حسابى,show invoice
+4522,وقت,late
+4523,نظره الاوردرات,show order
+4524,اضيف عنوان,add address
+4525,الاوردر 2 تشيكن,order item_number ItemName
+4526,,
+4527,الاوردر,order
+4528,اعرضلي منيو سبكترا,show Menu location
+4529,اعرف قديش وقت الاوردر,show show late order
+4530,اضيف,add
+4531,تفرجيني قبل,show previous
+4532,اعرضلي الاوردر,show order
+4533,احذف العنوان,delete address
+4534,عنواني,address
+4535,كام,invoice
+4536,اشوف منيو,show Menu
+4537,عايزة,show
+4538,,
+4539,,
+4540,الطلبات,order
+4541,,
+4542,عنوان,address
+4543,الفاتورة,invoice
+4544,احذف,delete
+4545,,
+4546,ايه,late
+4547,عايزة اتنين,show item_number
+4548,تغيير البيانات,change update_data
+4549,اغير,change
+4550,عايزة 2 بيتزا تشيكن كبير,show item_number ItemName ItemName itemSize
+4551,الغي عنواني,cancel address
+4552,وقت,late
+4553,الاوردر مجاش,order late
+4554,عايزة احط عنواني,show add address
+4555,,
+4556,اشوف الاوردر,show order
+4557,,
+4558,تفرجيني المنيو,show Menu
+4559,,
+4560,احدث رقم الموبايل,update_data phone_number phone_number
+4561,قائمة تغيير البيانات,Menu change update_data
+4562,مع,add
+4563,ساندوتش,ItemName
+4564,عنوان البيت,address address
+4565,,
+4566,,
+4567,تبديل,edit
+4568,الاوردر,order
+4569,رقم الجوال,phone_number phone_number
+4570,,
+4571,رقم,phone_number
+4572,,
+4573,غير,change
+4574,رقم,phone_number
+4575,,
+4576,العنوان,address
+4577,,
+4578,اشوف,show
+4579,الطلبات,order
+4580,الهابي ميل,ItemName ItemName
+4581,غير العنوان,change address
+4582,,
+4583,كبير,itemSize
+4584,,
+4585,عايزة اشوف الاوردر,show show order
+4586,ماوصل,late
+4587,2 مع,item_number add
+4588,,
+4589,,
+4590,الفاتورة,invoice
+4591,,
+4592,بيتزا,ItemName
+4593,,
+4594,عايزة احذف,show delete
+4595,مع,add
+4596,الاوردر,order
+4597,,
+4598,,
+4599,للرقم,phone_number
+4600,اسجل عنوان,update_data address
+4601,عنواني,address
+4602,شوف الكارت,show card
+4603,,
+4604,,
+4605,,
+4606,العنوان,address
+4607,اضيف العنوان,add address
+4608,تبعتلي قائمة,show Menu
+4609,غير البيانات,change update_data
+4610,عنوان البيت,address address
+4611,اشوف الاوردر رقم,show order phone_number
+4612,,
+4613,اعرضلي طلباتي,show order
+4614,ايه الاوردر,late order
+4615,شوف منيو,show Menu
+4616,ساندوتش,ItemName
+4617,,
+4618,,
+4619,اشوف الكارت,show card
+4620,الاوردر,order
+4621,الحجم,itemSize
+4622,الغي تشيكن,cancel ItemName
+4623,الاوردر,order
+4624,رقم,phone_number
+4625,الاوردر,order
+4626,,
+4627,اضيف العنوان,add address
+4628,عنوان البيت,address address
+4629,الاوردر,order
+4630,,
+4631,,
+4632,اللغة الانجليزية,Language Language
+4633,عنوان,address
+4634,,
+4635,,
+4636,احذف,delete
+4637,,
+4638,الطلبات السابقة,order previous
+4639,,
+4640,,
+4641,,
+4642,,
+4643,,
+4644,,
+4645,مع كبير,add itemSize
+4646,هاخد مع,show add
+4647,,
+4648,غير العنوان,change address
+4649,عايزة اغير,show change
+4650,احذف,delete
+4651,رقم هاتفى الجوال,phone_number phone_number phone_number
+4652,الاوردر مجاش لحد دلوقتى ايه,order late late late late
+4653,تغيير البيانات,change update_data
+4654,الاوردر,order
+4655,اشوف الاوردرات طلبتها قبل,show order order previous
+4656,,
+4657,اشوف منيو,show Menu
+4658,,
+4659,,
+4660,اغير رقم الموبايل,change phone_number phone_number
+4661,قائمة البيانات,Menu update_data
+4662,اشوف الاوردر,show order
+4663,اعدل رقم هاتفى للرقم,edit phone_number phone_number phone_number
+4664,احط رقم,add phone_number
+4665,البيانات,update_data
+4666,الاوردرات السابقة,order previous
+4667,الكارت,card
+4668,تشيكن ساندوتش,ItemName ItemName
+4669,,
+4670,قائمة,Menu
+4671,,
+4672,اوردر,order
+4673,ميل,ItemName
+4674,منيو الاطباق,Menu Menu
+4675,,
+4676,اللغة,Language
+4677,ايه رقم الاوردر,late phone_number order
+4678,العنوان,address
+4679,,
+4680,عايزة الطلبات,show order
+4681,2,item_number
+4682,اروح,show
+4683,العنوان,address
+4684,اتنين,item_number
+4685,الحجم الكبير,itemSize itemSize
+4686,,
+4687,,
+4688,قائمة,Menu
+4689,اوردر,order
+4690,الغي,cancel
+4691,اشوف طلبتها,show order
+4692,مع,add
+4693,عايزة عنوان البيت,show address address
+4694,3 بيتزا كبير,item_number ItemName itemSize
+4695,,
+4696,,
+4697,العنوان,address
+4698,عايزة اشوف الكارت,show show card
+4699,,
+4700,,
+4701,,
+4702,مع,add
+4703,اوردر,order
+4704,اشوف الاوردرات,show order
+4705,عايزة احذف,show delete
+4706,,
+4707,اعرف الاوردر,show order
+4708,,
+4709,اشوف منيو,show Menu
+4710,,
+4711,قديش,show
+4712,الكارت,card
+4713,,
+4714,,
+4715,,
+4716,منيو,Menu
+4717,اشوف الطلبات السابقة,show order previous
+4718,,
+4719,كبير,itemSize
+4720,شوف منيو,show Menu
+4721,اوردراتي السابقة,order previous
+4722,تفرجيني قائمة الطعام,show Menu Menu
+4723,,
+4724,2 ساندوتش,item_number ItemName
+4725,الكارت,card
+4726,,
+4727,,
+4728,احذف,delete
+4729,وريني,show
+4730,,
+4731,رقم للرقم,phone_number phone_number
+4732,ايه,late
+4733,امسح العنوان,delete address
+4734,احذف عنوان البيت,delete address address
+4735,,
+4736,,
+4737,الاوردر,order
+4738,الاوردر,order
+4739,,
+4740,,
+4741,شوف منيو,show Menu
+4742,,
+4743,,
+4744,العنوان,address
+4745,اعرف ايه,show late
+4746,,
+4747,الاوردر,order
+4748,اعدل,edit
+4749,عايزة اضيف,show add
+4750,وقت اد ايه الاوردر,late late late order
+4751,,
+4752,اعرضلي الاوردرات القديمة,show order previous
+4753,تبديل,edit
+4754,,
+4755,2 تشيكن سيزر,item_number ItemName ItemName
+4756,الحجم,itemSize
+4757,عنواني,address
+4758,,
+4759,عايزة,show
+4760,الاوردر لحد,order late
+4761,كبير,itemSize
+4762,رقم للحين,phone_number late
+4763,منيو,Menu
+4764,منيو,Menu
+4765,هاخد 3 سلطة كبيرة,show item_number ItemName itemSize
+4766,مع,add
+4767,اشوف اوردراتي,show order
+4768,,
+4769,عنوان البيت,address address
+4770,,
+4771,الاوردر,order
+4772,اضيف العنوان,add address
+4773,القائمة,Menu
+4774,شوف الاوردرات السابقة,show order previous
+4775,كبير,itemSize
+4776,اللغة الانجليزية,Language Language
+4777,اشوف الاوردرات,show order
+4778,ماوصل,late
+4779,,
+4780,الغي العنوان,cancel address
+4781,,
+4782,احدث العنوان,update_data address
+4783,عايزة الاوردر,show order
+4784,ميل,ItemName
+4785,كبير,itemSize
+4786,غير البيانات,change update_data
+4787,2 سلطة كبيرة بدون,item_number ItemName itemSize Exclude
+4788,اشوف الكارت,show card
+4789,,
+4790,ماوصل,late
+4791,,
+4792,مع,add
+4793,رقم,phone_number
+4794,اد ايه,late late
+4795,العنوان,address
+4796,اتنين بصل,item_number Exclude
+4797,,
+4798,اعرف,show
+4799,اشوف,show
+4800,قائمة الطعام,Menu Menu
+4801,اعرف الفاتورة,show invoice
+4802,,
+4803,تفرجيني الطعام,show Menu
+4804,اغير اللغة,change Language
+4805,عايزة,show
+4806,كام,invoice
+4807,عايزة اعرف الاوردر وقت ايه,show show order late late
+4808,,
+4809,عايزة قائمة تغيير البيانات,show Menu change update_data
+4810,اللغة الانجليزية,Language Language
+4811,عايزة اشوف الطلبات,show show order
+4812,,
+4813,شوف,show
+4814,,
+4815,بيتزا مع,ItemName add
+4816,مع,add
+4817,الاوردر,order
+4818,عايزة,show
+4819,,
+4820,,
+4821,رقم,phone_number
+4822,اللغة,Language
+4823,,
+4824,شوف المنيو,show Menu
+4825,العنوان,address
+4826,العنوان,address
+4827,تشيكن ساندوتش,ItemName ItemName
+4828,,
+4829,وريني طلباتي السابقة,show order previous
+4830,غير لغة,change Language
+4831,,
+4832,,
+4833,عايزة الحجم الكبير,show itemSize itemSize
+4834,اشوف الاوردر,show order
+4835,عنوان البيت,address address
+4836,اغير,change
+4837,اضيف,add
+4838,,
+4839,اغير رقم,change phone_number
+4840,اعرف,show
+4841,,
+4842,,
+4843,اشوف منيو,show Menu
+4844,نظره,show
+4845,عايزة قبل,show previous
+4846,قائمة تغيير البيانات,Menu change update_data
+4847,,
+4848,,
+4849,,
+4850,تفرجيني الاوردرات السابقة,show order previous
+4851,المنيو,Menu
+4852,,
+4853,اغير رقم,change phone_number
+4854,المنيو,Menu
+4855,اسجل عنواني,update_data address
+4856,,
+4857,,
+4858,,
+4859,عايزة الغي العنوان,show cancel address
+4860,,
+4861,,
+4862,الكارت,card
+4863,بدون,Exclude
+4864,,
+4865,اعرف,show
+4866,اوردر,order
+4867,,
+4868,اشوف منيو سوبريم,show Menu ItemName
+4869,تبعتلي الطعام,show Menu
+4870,2,item_number
+4871,وريني الاوردرات القديمة,show order previous
+4872,اسجل عنواني,update_data address
+4873,اسجل عنوان,update_data address
+4874,عايزة عنوان البيت,show address address
+4875,عايزة اضيف,show add
+4876,الغي,cancel
+4877,,
+4878,الاشياء طلبتها,order order
+4879,اعرضلي منيو,show Menu
+4880,غير رقم الموبايل,change phone_number phone_number
+4881,,
+4882,شوف الاوردر,show order
+4883,عايزة امسح تشيكن ميل,show delete ItemName ItemName
+4884,رقم,phone_number
+4885,,
+4886,اشوف قائمة الطعام,show Menu Menu
+4887,اغير رقم الموبايل,change phone_number phone_number
+4888,,
+4889,الحجم,itemSize
+4890,تغيير رقم الجوال,change phone_number phone_number
+4891,شوف منيو,show Menu
+4892,تبديل رقم,edit phone_number
+4893,,
+4894,اوردر,order
+4895,بياناتي,update_data
+4896,الغي,cancel
+4897,كام,invoice
+4898,,
+4899,شوف الطلبات طلبتها,show order order
+4900,رقم,phone_number
+4901,عنوان البيت,address address
+4902,,
+4903,,
+4904,,
+4905,غير رقم,change phone_number
+4906,,
+4907,,
+4908,,
+4909,3 مع,item_number add
+4910,اشوف الكارت,show card
+4911,مع,add
+4912,عنوان,address
+4913,وريني الاوردر,show order
+4914,,
+4915,العنوان,address
+4916,الغي,cancel
+4917,البيانات,update_data
+4918,2,item_number
+4919,مع,add
+4920,,
+4921,,
+4922,مع,add
+4923,رقم,phone_number
+4924,غير البيانات,change update_data
+4925,,
+4926,ساندوتش,ItemName
+4927,,
+4928,دلوقتي عايزة اضيف رقم ايه,late show add phone_number late
+4929,,
+4930,اشوف الاوردر,show order
+4931,عايزة احدث عنوان البيت,show update_data address address
+4932,عايزة اعدل,show edit
+4933,,
+4934,عايزة اشوف الطلبات القديمة,show show order previous
+4935,,
+4936,,
+4937,عايزة اشوف الاوردر,show show order
+4938,دلوقتي اضيف رقم,late add phone_number
+4939,اشوف,show
+4940,اعدل رقم,edit phone_number
+4941,الاوردر,order
+4942,5 كبير,item_number itemSize
+4943,,
+4944,كبيرة,itemSize
+4945,تفرجيني الفاتورة,show invoice
+4946,غير,change
+4947,الاوردر,order
+4948,,
+4949,,
+4950,بيتزا,ItemName
+4951,اعرضلي الاوردر,show order
+4952,رقم للرقم للرقم,phone_number phone_number phone_number
+4953,هاخد 2 بيتزا,show item_number ItemName
+4954,عايزة قائمة البيانات,show Menu update_data
+4955,,
+4956,,
+4957,الاوردر,order
+4958,اعرف,show
+4959,الاوردر 2,order item_number
+4960,للرقم,phone_number
+4961,قائمة الطعام,Menu Menu
+4962,,
+4963,عنوان,address
+4964,الغي,cancel
+4965,عنوان البيت,address address
+4966,عايزة اللغة الانجليزية,show Language Language
+4967,الفاتورة كام,invoice invoice
+4968,اغير اللغة,change Language
+4969,,
+4970,3 تشيكن,item_number ItemName
+4971,العنوان,address
+4972,مع,add
+4973,عنوان البيت,address address
+4974,,
+4975,قائمة البيانات,Menu update_data
+4976,,
+4977,الطلبات,order
+4978,عايزة اغير,show change
+4979,اد ايه,late late
+4980,الاوردر,order
+4981,المنيو,Menu
+4982,اضيف عنواني,add address
+4983,,
+4984,,
+4985,اروح القائمة,show Menu
+4986,,
+4987,,
+4988,,
+4989,,
+4990,عايزة,show
+4991,الاوردر,order
+4992,رقم,phone_number
+4993,,
+4994,اشوف اوردراتي,show order
+4995,,
+4996,,
+4997,احط عنواني,add address
+4998,الطلبات السابقة,order previous
+4999,شوف الكارت,show card
+5000,,
+5001,مع,add
+5002,صغيرة,itemSize
+5003,الغي عنواني,cancel address
+5004,احذف,delete
+5005,تغيير,change
+5006,2 ساندوتش تشيكن,item_number ItemName ItemName
+5007,اسجل عنواني,update_data address
+5008,,
+5009,اشوف القائمة,show Menu
+5010,مع,add
+5011,غير,change
+5012,اعرضلي الاوردر,show order
+5013,منيو,Menu
+5014,احذف عنوان البيت,delete address address
+5015,اوردر,order
+5016,عنوان,address
+5017,ايه المنيو,late Menu
+5018,اغير عنواني,change address
+5019,,
+5020,كام,invoice
+5021,,
+5022,,
+5023,الغي العنوان,cancel address
+5024,عايزة مع,show add
+5025,الاوردر 3,order item_number
+5026,تغيرلي,change
+5027,حذف الجوال,delete phone_number
+5028,وقت,late
+5029,,
